@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>English</Name>
-  <Code>EN</Code>
+  <Code>TW</Code>
   <Font>font_english</Font>
   <Reagents>
     <RecordReagent>
