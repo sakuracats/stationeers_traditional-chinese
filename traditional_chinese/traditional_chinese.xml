@@ -415,399 +415,399 @@
     </Record>
     <Record>
       <Key>Deconstruct</Key>
-      <Value>Deconstruct</Value>
+      <Value>拆除</Value>
     </Record>
     <Record>
       <Key>Disconnect</Key>
-      <Value>Disconnect</Value>
+      <Value>中斷連接</Value>
     </Record>
     <Record>
       <Key>Connect</Key>
-      <Value>Connect</Value>
+      <Value>連接</Value>
     </Record>
     <Record>
       <Key>Load</Key>
-      <Value>Load</Value>
+      <Value>載入</Value>
     </Record>
     <Record>
       <Key>Unload</Key>
-      <Value>Unload</Value>
+      <Value>卸載</Value>
     </Record>
     <Record>
       <Key>GetIn</Key>
-      <Value>Get In</Value>
+      <Value>進入</Value>
     </Record>
     <Record>
       <Key>Error</Key>
-      <Value>Error</Value>
+      <Value>錯誤</Value>
     </Record>
     <Record>
       <Key>Lock</Key>
-      <Value>Lock</Value>
+      <Value>鎖上</Value>
     </Record>
     <Record>
       <Key>Unlock</Key>
-      <Value>Unlock</Value>
+      <Value>解鎖</Value>
     </Record>
     <Record>
       <Key>Rename</Key>
-      <Value>Rename</Value>
+      <Value>重新命名</Value>
     </Record>
     <Record>
       <Key>Up</Key>
-      <Value>Up</Value>
+      <Value>上升</Value>
     </Record>
     <Record>
       <Key>Down</Key>
-      <Value>Down</Value>
+      <Value>下降</Value>
     </Record>
     <Record>
       <Key>CallElevator</Key>
-      <Value>Call</Value>
+      <Value>呼叫</Value>
     </Record>
     <Record>
       <Key>Set</Key>
-      <Value>Set</Value>
+      <Value>設置</Value>
     </Record>
     <Record>
       <Key>Cycle</Key>
-      <Value>Cycle</Value>
+      <Value>循環</Value>
     </Record>
     <Record>
       <Key>ForceClose</Key>
-      <Value>Force Close</Value>
+      <Value>強制關閉</Value>
     </Record>
     <Record>
       <Key>ForceOpen</Key>
-      <Value>Force Open</Value>
+      <Value>強制打開</Value>
     </Record>
     <Record>
       <Key>Vend</Key>
-      <Value>Vend</Value>
+      <Value>出售</Value>
     </Record>
     <Record>
       <Key>Link</Key>
-      <Value>Link</Value>
+      <Value>連接</Value>
     </Record>
     <Record>
       <Key>UnLink</Key>
-      <Value>UnLink</Value>
+      <Value>取消連接</Value>
     </Record>
     <Record>
       <Key>ForceFeed</Key>
-      <Value>Force Feed</Value>
+      <Value>強制餵食</Value>
     </Record>
     <Record>
       <Key>FlipRover</Key>
-      <Value>Flip Rover</Value>
+      <Value>翻轉漫遊車</Value>
     </Record>
     <Record>
       <Key>Idle</Key>
-      <Value>Idle</Value>
+      <Value>閒置</Value>
     </Record>
     <Record>
       <Key>Active</Key>
-      <Value>Active</Value>
+      <Value>啟用</Value>
     </Record>
     <Record>
       <Key>Repair</Key>
-      <Value>Repair</Value>
+      <Value>修復</Value>
     </Record>
     <Record>
       <Key>Extend</Key>
-      <Value>Extend</Value>
+      <Value>展開</Value>
     </Record>
     <Record>
       <Key>Retract</Key>
-      <Value>Retract</Value>
+      <Value>縮回</Value>
     </Record>
   </Actions>
   <Things>
     <RecordThing>
       <Key>ApplianceMicrowave</Key>
-      <Value>Microwave</Value>
-      <Description>While countless 'better' ways of cooking {LINK:FoodPage;Food} have been invented in the last few hundred years, few are as durable or easy to fabricate as the OK-Zoomer microwave. Licensed from {LINK:Xigo;Xigo}, the plans are based on a classic model from the mid-21st century, giving it a charmingly retro feel. But don't worry, it oscillates {GAS:Water} molecules more than adequately. 
-Just bolt it to a {THING:StructureBench} using a {THING:ItemWrench} to power it, follow the recipe, and you're cooking.</Description>
+      <Value>微波爐</Value>
+      <Description>雖然在過去的幾百年發明了無數「更好」的方法烹飪 {LINK:FoodPage;Food}，但很少有像 OK-Zoomer 微波爐那樣耐用且易於製造的。該型號由 {LINK:Xigo;Xigo} 設計，以 21 世紀中葉的經典模型為基礎，賦予其迷人的復古感覺。別擔心,它可以把{GAS:Water} 分子震得不得了。
+只要用 {THING:ItemWrench} 把它安裝在 {THING:StructureBench} 上面並通電,照食譜操作,很快你就可以開始大展煮食手藝了!</Description>
     </RecordThing>
     <RecordThing>
       <Key>ApplianceReagentProcessor</Key>
-      <Value>Reagent Processor</Value>
-      <Description>Sitting somewhere between a high powered juicer and an alchemist's alembic, the {LINK:Xigo;Xigo} reagent processor turns certain raw materials and food items into cooking and crafting ingredients. Indispensible in any space kitchen, just bolt it to the bench, and you're ready to go.</Description>
+      <Value>試劑處理器</Value>
+      <Description>在高功率果汁機和煉金師的蒸餾器之間,這台 {LINK:Xigo;Xigo} 試劑處理器可以把某些原料和食材轉變成烹飪和製作用的原料。它是太空廚房不可或缺的設備,只要把它螺絲釘在工作臺上,你就可以馬上開工了!</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleArmL</Key>
-      <Value>Body Part Astronaut Female Arm</Value>
-      <Description>As far as left arms go, this is an acceptable, if slightly forgettable example of its kind. It's seen better days.</Description>
+      <Value>女太空人左手臂</Value>
+      <Description>就左手臂來說,這個雖然不是很特別,但還算可以接受的一種。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleArmR</Key>
-      <Value>Body Part Astronaut Female Arm R</Value>
-      <Description>One of a pair. The other is probably nearby.</Description>
+      <Value>女太空人右手臂</Value>
+      <Description>一雙中的一隻。另一隻應該就在附近。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleHead</Key>
-      <Value>Body Part Astronaut Female Head</Value>
+      <Value>女太空人頭部</Value>
       <Description>If the eyes are windows to the soul, what does that make the head?</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleLegL</Key>
-      <Value>Body Part Astronaut Female Leg L</Value>
+      <Value>女太空人左腿</Value>
       <Description>A leg, is a leg, is a leg.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleLegR</Key>
-      <Value>Body Part Astronaut Female Leg R</Value>
+      <Value>女太空人右腿</Value>
       <Description>This is a woman's right leg. To judge by its state, she was fairly healthy, of average height, with a tendency to walk on the balls of her feet.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleTorso</Key>
-      <Value>Body Part Astronaut Female Torso</Value>
+      <Value>女太空人身體</Value>
       <Description>This isn't going anywhere by itself.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleArmL</Key>
-      <Value>Body Part Astronaut Male Arm L</Value>
+      <Value>男太空人左手臂</Value>
       <Description>Your arm is your fourth most important body part.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleArmR</Key>
-      <Value>Body Part Astronaut Male Arm R</Value>
+      <Value>男太空人右手臂</Value>
       <Description>There's nothing funny about this humerus.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleHead</Key>
-      <Value>Body Part Astronaut Male Head</Value>
+      <Value>男太空人頭部</Value>
       <Description>{LINK:Stationeers;Stationeer}s need to keep their heads at all times.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleLegL</Key>
-      <Value>Body Part Astronaut Male Leg)</Value>
+      <Value>男太空人左腿</Value>
       <Description>This is a leg. Someone probably misses it.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleLegR</Key>
-      <Value>Body Part Astronaut Male Leg R</Value>
+      <Value>男太空人右腿</Value>
       <Description>Legs are really useful things, but wheels would have been cool.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautTorso</Key>
-      <Value>Body Part Astronaut Torso</Value>
+      <Value>男太空人身體</Value>
       <Description>Once, this was most of someone.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickBody</Key>
-      <Value>Body Part Chick Body</Value>
+      <Value>小雞身體</Value>
       <Description>The fluffy heart of a harmless proto-hen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenBrownBody</Key>
-      <Value>Body Part Chicken Brown Body</Value>
+      <Value>褐色雞身體</Value>
       <Description>Let's not over-complicate things. It's a chicken.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenBrownHead</Key>
-      <Value>Body Part Chicken Brown Head</Value>
+      <Value>褐色雞頭部</Value>
       <Description>A chicken head is useful for many things, but principally voodoo and space curses.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenBrownLegL</Key>
-      <Value>Body Part Chicken Brown Leg)</Value>
+      <Value>褐色雞左腿</Value>
       <Description>A chicken leg.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenBrownLegR</Key>
-      <Value>Body Part Chicken Brown Leg R</Value>
+      <Value>褐色雞右腿</Value>
       <Description>Also a chicken leg.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenBrownTail</Key>
-      <Value>Body Part Chicken Brown Tail</Value>
+      <Value>褐色雞尾巴</Value>
       <Description>A chicken's tail is arguably its least endearing feature.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenBrownWingL</Key>
-      <Value>Body Part Chicken Brown Wing)</Value>
+      <Value>褐色雞左翅</Value>
       <Description>A chicken wing.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenBrownWingR</Key>
-      <Value>Body Part Chicken Brown Wing R</Value>
+      <Value>褐色雞右翅</Value>
       <Description>A chicken wing.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenWhiteBody</Key>
-      <Value>Body Part Chicken White Body</Value>
+      <Value>白色雞身體</Value>
       <Description>Part of a chicken.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenWhiteHead</Key>
-      <Value>Body Part Chicken White Head</Value>
+      <Value>白色雞頭部</Value>
       <Description>A chicken's head. Once used as currency by long-departed alien races.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenWhiteLegL</Key>
-      <Value>Body Part Chicken White Leg)</Value>
+      <Value>白色雞左腿</Value>
       <Description>A chicken leg.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenWhiteLegR</Key>
-      <Value>Body Part Chicken White Leg R</Value>
+      <Value>白色雞右腿</Value>
       <Description>A chicken leg.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenWhiteTail</Key>
-      <Value>Body Part Chicken White Tail</Value>
+      <Value>白色雞尾巴</Value>
       <Description>A chicken tail.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenWhiteWingL</Key>
-      <Value>Body Part Chicken White Wing)</Value>
+      <Value>白色雞左翅</Value>
       <Description>It's a chicken wing.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenWhiteWingR</Key>
-      <Value>Body Part Chicken White Wing R</Value>
+      <Value>白色雞右翅</Value>
       <Description>A chicken wing.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickHead</Key>
-      <Value>Body Part Chick Head</Value>
+      <Value>小雞頭部</Value>
       <Description>The head of a chicken. Once, it had the heart of a tiger.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickLegL</Key>
-      <Value>Body Part Chick Leg)</Value>
+      <Value>小雞左腿</Value>
       <Description>A chicken leg.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickLegR</Key>
-      <Value>Body Part Chick Leg R</Value>
+      <Value>小雞右腿</Value>
       <Description>A chicken leg.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickTail</Key>
-      <Value>Body Part Chick Tail</Value>
+      <Value>小雞尾巴</Value>
       <Description>A chicken's tail.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickWingL</Key>
-      <Value>Body Part Chick Wing)</Value>
+      <Value>小雞左翅</Value>
       <Description>A chicken wing.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickWingR</Key>
-      <Value>Body Part Chick Wing R</Value>
+      <Value>小雞右翅</Value>
       <Description>A chicken wing.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienArmL</Key>
-      <Value>Body Part Graylien Arm L</Value>
+      <Value>Graylien 左臂</Value>
       <Description>An alien's arm.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienArmR</Key>
-      <Value>Body Part Graylien Arm R</Value>
+      <Value>Graylien 右臂</Value>
       <Description>An alien's arm.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienBody</Key>
-      <Value>Body Part Graylien Body</Value>
+      <Value>Graylien 身體</Value>
       <Description>An alien's body, or a very convincing fake.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienHead</Key>
-      <Value>Body Part Graylien Head</Value>
+      <Value>Graylien 頭部</Value>
       <Description>An alien's head.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienLegL</Key>
-      <Value>Body Part Graylien Leg L</Value>
+      <Value>Graylien 左腿</Value>
       <Description>An alien's leg.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienLegR</Key>
-      <Value>Body Part Graylien Leg R</Value>
+      <Value>Graylien 右腿</Value>
       <Description>An alien's other leg.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienPelvis</Key>
-      <Value>Body Part Graylien Pelvis</Value>
+      <Value>Graylien 骨盆</Value>
       <Description>An alien's pelvis.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackBody</Key>
-      <Value>Body Part Rooster Black Body</Value>
+      <Value>黑色公雞身體</Value>
       <Description>A rooster's body.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackHead</Key>
-      <Value>Body Part Rooster Black Head</Value>
+      <Value>黑色公雞頭部</Value>
       <Description>A rooster's head. The perfect gift for mother's day.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackLegL</Key>
-      <Value>Body Part Rooster Black Leg)</Value>
+      <Value>黑色公雞左腿</Value>
       <Description>A rooster's leg.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackLegR</Key>
-      <Value>Body Part Rooster Black Leg R</Value>
+      <Value>黑色公雞右腿</Value>
       <Description>A rooster's leg.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackTail</Key>
-      <Value>Body Part Rooster Black Tail</Value>
+      <Value>黑色公雞尾巴</Value>
       <Description>A rooster's tail.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackWingL</Key>
-      <Value>Body Part Rooster Black Wing)</Value>
+      <Value>黑色公雞左翅</Value>
       <Description>A rooster's wing.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackWingR</Key>
-      <Value>Body Part Rooster Black Wing R</Value>
+      <Value>黑色公雞右翅</Value>
       <Description>A rooster's wing.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownBody</Key>
-      <Value>Body Part Rooster Brown Body</Value>
+      <Value>褐色公雞身體</Value>
       <Description>A rooster's body.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownHead</Key>
-      <Value>Body Part Rooster Brown Head</Value>
+      <Value>褐色公雞頭部</Value>
       <Description>The head of a brown rooster.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownLegL</Key>
-      <Value>Body Part Rooster Brown Leg)</Value>
+      <Value>褐色雞左腿</Value>
       <Description>A brown rooster's leg.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownLegR</Key>
-      <Value>Body Part Rooster Brown Leg R</Value>
+      <Value>褐色公雞右腿</Value>
       <Description>A rooster's leg.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownTail</Key>
-      <Value>Body Part Rooster Brown Tail</Value>
+      <Value>褐色公雞尾巴</Value>
       <Description>A rooster's tail.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownWingL</Key>
-      <Value>Body Part Rooster Brown Wing)</Value>
+      <Value>褐色公雞左翅</Value>
       <Description>A rooster's wing.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownWingR</Key>
-      <Value>Body Part Rooster Brown Wing R</Value>
+      <Value>褐色公雞右翅</Value>
       <Description>A brown rooster's wing. Well, brownish.</Description>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeAtmosAnalyser</Key>
-      <Value>Atmos Analyzer</Value>
-      <Description>The Lorenz atmos analyzer is a multi-functional mass-spectrometer designed by {LINK:ExMin;ExMin} for use with the OreCore {THING:ItemTablet}. It displays the pressure, concentration and molar quantity of {LINK:GasPage;gas} in rooms, tanks, or pipe networks.</Description>
+      <Value>晶片 (大氣分析)</Value>
+      <Description>Lorenz 大氣分析晶片是一種由 {LINK:ExMin;ExMin} 為 OreCore {THING:ItemTablet} 所設計的多功能質譜儀。它可以顯示房間、壓力槽或管線網絡中 {LINK:GasPage;氣體} 的壓力、濃度和摩爾量。</Description>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeMedicalAnalyser</Key>
@@ -9359,7 +9359,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>Lock</Key>
-      <Value>Lock</Value>
+      <Value>鎖上</Value>
     </Record>
     <Record>
       <Key>Powered</Key>
@@ -9367,7 +9367,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>Error</Key>
-      <Value>Error</Value>
+      <Value>錯誤</Value>
     </Record>
     <Record>
       <Key>Slot1</Key>
@@ -10629,7 +10629,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>InputTextRename</Key>
-      <Value>Rename</Value>
+      <Value>重新命名</Value>
     </Record>
     <Record>
       <Key>ButtonOk</Key>
@@ -11639,7 +11639,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>ButtonLoad</Key>
-      <Value>Load</Value>
+      <Value>載入</Value>
     </Record>
     <Record>
       <Key>HeadingEdit</Key>
@@ -14240,7 +14240,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>Cycle</Key>
-      <Value>Cycle</Value>
+      <Value>循環</Value>
     </Record>
     <Record>
       <Key>BuildStateOfHash</Key>
@@ -14400,7 +14400,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickDeconstructDisc</Key>
-      <Value>Deconstruct</Value>
+      <Value>拆除</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickPlaceDisc</Key>
@@ -15599,7 +15599,7 @@ A {THING:StructureWaterPurifier} can be used to convert it back to {GAS:Water}.<
     </Record>
     <Record>
       <Key>ButtonIdle</Key>
-      <Value>Idle</Value>
+      <Value>閒置</Value>
     </Record>
     <Record>
       <Key>ButtonMonitors</Key>
@@ -18149,7 +18149,7 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>ActionRepairRobot</Key>
-      <Value>Repair</Value>
+      <Value>修復</Value>
     </Record>
     <Record>
       <Key>ActionPatchSolarPanels</Key>
@@ -18589,7 +18589,7 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>ArmControlIdle</Key>
-      <Value>Idle</Value>
+      <Value>閒置</Value>
     </Record>
     <Record>
       <Key>ArmControlPlant</Key>
@@ -19177,7 +19177,7 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>Repair</Key>
-      <Value>Repair</Value>
+      <Value>修復</Value>
     </Record>
     <Record>
       <Key>HandSlotOccupied</Key>
