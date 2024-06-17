@@ -811,13 +811,13 @@
     </RecordThing>
     <RecordThing>
       <Key>CartridgeMedicalAnalyser</Key>
-      <Value>Medical Analyzer</Value>
-      <Description>When added to the OreCore {THING:ItemTablet}, {LINK:Asura;Asura's}'s ReadyMed medical analyzer reveals the health, or otherwise, of users various organs. Due to a design flaw, older models were notorious for producing quasar-like levels of x-ray radiation. Recent advances in shielding have more than halved the risk to users.</Description>
+      <Value>晶片 (醫療分析)</Value>
+      <Description>將其放入到 OreCore {THING:ItemTablet} 後，{LINK:Asura;Asura's} 製造的醫療分析晶片將顯示用戶各種器官的健康狀況。由於設計缺陷，舊款機型因產生准星級 X 射線輻射而臭名昭著。新款的屏蔽技術的進步使用戶的風險減少一半以上。</Description>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeNetworkAnalyser</Key>
-      <Value>Network Analyzer</Value>
-      <Description>A minor masterpiece of micro-electronic engineering, the network analyzer displays the current, voltage and wattage of a cable network, as well as any devices connected to it. Based on a widely-copied {LINK:Sinotai;Sinotai} design, it's used in conjunction with the OreCore {THING:ItemTablet}.</Description>
+      <Value>晶片 (網絡分析)</Value>
+      <Description>網絡分析器是微電子工程的一個小傑作，它可以顯示電纜網絡的電流、電壓和瓦數，以及連接到它的所有設備。它基於 {LINK:Sinotai;Sinotai} 設計並被廣泛使用的技術，與 OreCore {THING:ItemTablet} 一起使用。</Description>
     </RecordThing>
     <RecordThing>
       <Key>Character</Key>
