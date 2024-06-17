@@ -16,7 +16,7 @@
     </Record>
     <Record>
       <Key>Clear</Key>
-      <Value>Clear</Value>
+      <Value>清空</Value>
     </Record>
     <Record>
       <Key>Return</Key>
@@ -393,7 +393,7 @@
     </Record>
     <Record>
       <Key>Insert</Key>
-      <Value>Insert</Value>
+      <Value>放入</Value>
     </Record>
     <Record>
       <Key>Home</Key>

@@ -76,342 +76,342 @@
     </RecordReagent>
     <RecordReagent>
       <Key>Invar</Key>
-      <Value>Invar</Value>
+      <Value>殷瓦鋼</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Constantan</Key>
-      <Value>Constantan</Value>
+      <Value>康銅</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Solder</Key>
-      <Value>Solder</Value>
+      <Value>銲錫</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Plastic</Key>
-      <Value>Plastic</Value>
+      <Value>塑膠</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Silicon</Key>
-      <Value>Silicon</Value>
+      <Value>矽</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>SalicylicAcid</Key>
-      <Value>Salicylic Acid</Value>
+      <Value>水楊酸</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Alcohol</Key>
-      <Value>Alcohol</Value>
+      <Value>酒精</Value>
       <Unit>毫升</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Oil</Key>
-      <Value>Oil</Value>
+      <Value>油</Value>
       <Unit>毫升</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Potato</Key>
-      <Value>Potato</Value>
+      <Value>馬鈴薯</Value>
       <Unit/>
     </RecordReagent>
     <RecordReagent>
       <Key>Tomato</Key>
-      <Value>Tomato</Value>
+      <Value>番茄</Value>
       <Unit/>
     </RecordReagent>
     <RecordReagent>
       <Key>Fenoxitone</Key>
-      <Value>Fenoxitone</Value>
+      <Value>苯氧酮</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorRed</Key>
-      <Value>Red Coloring</Value>
+      <Value>紅色染料</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorGreen</Key>
-      <Value>Green Coloring</Value>
+      <Value>綠色染料</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorBlue</Key>
-      <Value>Blue Coloring</Value>
+      <Value>藍色染料</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorYellow</Key>
-      <Value>Yellow Coloring</Value>
+      <Value>黃色染料</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorOrange</Key>
-      <Value>Orange Coloring</Value>
+      <Value>橘色染料</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Pumpkin</Key>
-      <Value>Pumpkin</Value>
+      <Value>南瓜</Value>
       <Unit/>
     </RecordReagent>
     <RecordReagent>
       <Key>Rice</Key>
-      <Value>Rice</Value>
+      <Value>稻米</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Waspaloy</Key>
-      <Value>Waspaloy</Value>
+      <Value>沃斯帕洛伊合金</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Stellite</Key>
-      <Value>Stellite</Value>
+      <Value>史泰勒合金</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Inconel</Key>
-      <Value>Inconel</Value>
+      <Value>英高鎳合金</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Hastelloy</Key>
-      <Value>Hastelloy</Value>
+      <Value>哈氏合金</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Astroloy</Key>
-      <Value>Astroloy</Value>
+      <Value>阿斯特羅依合金</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Cobalt</Key>
-      <Value>Cobalt</Value>
+      <Value>鈷</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Corn</Key>
-      <Value>Corn</Value>
+      <Value>玉米</Value>
       <Unit/>
     </RecordReagent>
     <RecordReagent>
       <Key>Wheat</Key>
-      <Value>Wheat</Value>
+      <Value>小麥</Value>
       <Unit/>
     </RecordReagent>
     <RecordReagent>
       <Key>Biomass</Key>
-      <Value>Biomass</Value>
+      <Value>生物質</Value>
       <Unit/>
     </RecordReagent>
     <RecordReagent>
       <Key>Soy</Key>
-      <Value>Soy</Value>
+      <Value>大豆</Value>
       <Unit/>
     </RecordReagent>
     <RecordReagent>
       <Key>Mushroom</Key>
-      <Value>Mushroom</Value>
+      <Value>蘑菇</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Sugar</Key>
-      <Value>Sugar</Value>
+      <Value>糖</Value>
       <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Cocoa</Key>
-      <Value>Cocoa</Value>
+      <Value>可可</Value>
       <Unit>公克</Unit>
     </RecordReagent>
   </Reagents>
   <Gases>
     <Record>
       <Key>Oxygen</Key>
-      <Value>Oxygen</Value>
+      <Value>氧</Value>
     </Record>
     <Record>
       <Key>CarbonDioxide</Key>
-      <Value>Carbon Dioxide</Value>
+      <Value>二氧化碳</Value>
     </Record>
     <Record>
       <Key>Nitrogen</Key>
-      <Value>Nitrogen</Value>
+      <Value>氮</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>Volatiles</Value>
+      <Value>揮發物</Value>
     </Record>
     <Record>
       <Key>Pollutant</Key>
-      <Value>Pollutant</Value>
+      <Value>汙染物</Value>
     </Record>
     <Record>
       <Key>Water</Key>
-      <Value>Water</Value>
+      <Value>澆水</Value>
     </Record>
     <Record>
       <Key>PollutedWater</Key>
-      <Value>Polluted Water</Value>
+      <Value>汙水</Value>
     </Record>
     <Record>
       <Key>NitrousOxide</Key>
-      <Value>Nitrous Oxide</Value>
+      <Value>氧化亞氮</Value>
     </Record>
     <Record>
       <Key>LiquidNitrogen</Key>
-      <Value>Liquid Nitrogen</Value>
+      <Value>液化 氮</Value>
     </Record>
     <Record>
       <Key>LiquidOxygen</Key>
-      <Value>Liquid Oxygen</Value>
+      <Value>液化 氧</Value>
     </Record>
     <Record>
       <Key>LiquidVolatiles</Key>
-      <Value>Liquid Volatiles</Value>
+      <Value>液化 揮發物</Value>
     </Record>
     <Record>
       <Key>Steam</Key>
-      <Value>Steam</Value>
+      <Value>蒸氣</Value>
     </Record>
     <Record>
       <Key>LiquidCarbonDioxide</Key>
-      <Value>Liquid Carbon Dioxide</Value>
+      <Value>液化 二氧化碳</Value>
     </Record>
     <Record>
       <Key>LiquidPollutant</Key>
-      <Value>Liquid Pollutant</Value>
+      <Value>液化 汙染物</Value>
     </Record>
     <Record>
       <Key>LiquidNitrousOxide</Key>
-      <Value>Liquid Nitrous Oxide</Value>
+      <Value>液化 氧化亞氮</Value>
     </Record>
     <Record>
       <Key>Hydrogen</Key>
-      <Value>Hydrogen</Value>
+      <Value>氫</Value>
     </Record>
     <Record>
       <Key>LiquidHydrogen</Key>
-      <Value>Liquid Hydrogen</Value>
+      <Value>液化 氫</Value>
     </Record>
   </Gases>
   <Actions>
     <Record>
       <Key>Reload</Key>
-      <Value>Reload</Value>
+      <Value>重新裝填</Value>
     </Record>
     <Record>
       <Key>Paint</Key>
-      <Value>Paint</Value>
+      <Value>粉刷</Value>
     </Record>
     <Record>
       <Key>Mine</Key>
-      <Value>Mine</Value>
+      <Value>採礦</Value>
     </Record>
     <Record>
       <Key>Swap</Key>
-      <Value>Swap</Value>
+      <Value>交換</Value>
     </Record>
     <Record>
       <Key>Clear</Key>
-      <Value>Clear</Value>
+      <Value>清空</Value>
     </Record>
     <Record>
       <Key>Collect</Key>
-      <Value>Collect</Value>
+      <Value>收集</Value>
     </Record>
     <Record>
       <Key>Add</Key>
-      <Value>Add</Value>
+      <Value>加入</Value>
     </Record>
     <Record>
       <Key>Insert</Key>
-      <Value>Insert</Value>
+      <Value>放入</Value>
     </Record>
     <Record>
       <Key>Remove</Key>
-      <Value>Remove</Value>
+      <Value>移除</Value>
     </Record>
     <Record>
       <Key>Pickup</Key>
-      <Value>Pickup</Value>
+      <Value>撿起</Value>
     </Record>
     <Record>
       <Key>Take</Key>
-      <Value>Take</Value>
+      <Value>拿取</Value>
     </Record>
     <Record>
       <Key>Build</Key>
-      <Value>Build</Value>
+      <Value>建造</Value>
     </Record>
     <Record>
       <Key>Consume</Key>
-      <Value>Consume</Value>
+      <Value>使用</Value>
     </Record>
     <Record>
       <Key>ConsumeFail</Key>
-      <Value>Failed: Helmet Closed</Value>
+      <Value>使用失敗：頭盔關閉中</Value>
     </Record>
     <Record>
       <Key>Plant</Key>
-      <Value>Plant</Value>
+      <Value>種植</Value>
     </Record>
     <Record>
       <Key>Water</Key>
-      <Value>Water</Value>
+      <Value>澆水</Value>
     </Record>
     <Record>
       <Key>Harvest</Key>
-      <Value>Harvest</Value>
+      <Value>採收</Value>
     </Record>
     <Record>
       <Key>Open</Key>
-      <Value>Open</Value>
+      <Value>打開</Value>
     </Record>
     <Record>
       <Key>Close</Key>
-      <Value>Close</Value>
+      <Value>關閉</Value>
     </Record>
     <Record>
       <Key>Opened</Key>
-      <Value>Opened</Value>
+      <Value>已打開</Value>
     </Record>
     <Record>
       <Key>Closed</Key>
-      <Value>Closed</Value>
+      <Value>已關閉</Value>
     </Record>
     <Record>
       <Key>Off</Key>
-      <Value>Off</Value>
+      <Value>關閉</Value>
     </Record>
     <Record>
       <Key>On</Key>
-      <Value>On</Value>
+      <Value>啟動</Value>
     </Record>
     <Record>
       <Key>Powered</Key>
-      <Value>Powered</Value>
+      <Value>已通電</Value>
     </Record>
     <Record>
       <Key>Unpowered</Key>
-      <Value>Unpowered</Value>
+      <Value>未通電</Value>
     </Record>
     <Record>
       <Key>False</Key>
-      <Value>False</Value>
+      <Value>假 (False)</Value>
     </Record>
     <Record>
       <Key>True</Key>
-      <Value>True</Value>
+      <Value>真 (True)</Value>
     </Record>
     <Record>
       <Key>Construct</Key>
-      <Value>Construct</Value>
+      <Value>建造</Value>
     </Record>
     <Record>
       <Key>Deconstruct</Key>
@@ -1098,7 +1098,7 @@ Normal coil has a maximum wattage of 5kW. For higher-current applications, use {
     </RecordThing>
     <RecordThing>
       <Key>ItemCorn</Key>
-      <Value>Corn</Value>
+      <Value>玉米</Value>
       <Description>A long growth time staple crop. Its low requirement for darkness allows for accelerated growing if provided with extra light.</Description>
     </RecordThing>
     <RecordThing>
@@ -1179,7 +1179,7 @@ To use on yourself: put duct tape in your active hand, hold RIGHT MOUSE BUTTON t
     </RecordThing>
     <RecordThing>
       <Key>ItemSugar</Key>
-      <Value>Sugar</Value>
+      <Value>糖</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
@@ -1788,7 +1788,7 @@ An upgraded version of the classic 'Zairo' model first manufactured by {LINK:ExM
     </RecordThing>
     <RecordThing>
       <Key>ItemWheat</Key>
-      <Value>Wheat</Value>
+      <Value>小麥</Value>
       <Description>A classical symbol of growth and new life, wheat takes a moderate time to grow. Its main use is to create {LINK:ReagentPage;flour} using the {THING:ApplianceReagentProcessor}.</Description>
     </RecordThing>
     <RecordThing>
@@ -3085,12 +3085,12 @@ Note that transformers operate as data isolators, preventing data flowing into a
     </RecordThing>
     <RecordThing>
       <Key>ItemPotato</Key>
-      <Value>Potato</Value>
+      <Value>馬鈴薯</Value>
       <Description> Potatoes are a simple, fast growing crop that can keep Stationeers alive in emergencies.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemTomato</Key>
-      <Value>Tomato</Value>
+      <Value>番茄</Value>
       <Description>Tomato plants are perennial, and will produce multiple harvests without needing to be replanted. Once the plant is mature, it will fruit at a moderate pace.</Description>
     </RecordThing>
     <RecordThing>
@@ -3967,17 +3967,17 @@ Output = 1 exporting items inside and eventually the main item.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMushroom</Key>
-      <Value>Mushroom</Value>
+      <Value>蘑菇</Value>
       <Description>A tasty food item. Unlike normal plants, it consumes {GAS:Oxygen} and outputs {GAS:CarbonDioxide}. Mushrooms will only mature at a moderate rate in darkness, and prolonged light will kill it.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPumpkin</Key>
-      <Value>Pumpkin</Value>
+      <Value>南瓜</Value>
       <Description>Pumpkins are a perennial plant, with both a long growth time, and a long time between harvests.  Its low requirement for darkness allows for accelerated growing if provided with extra light.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemRice</Key>
-      <Value>Rice</Value>
+      <Value>稻米</Value>
       <Description>Rice grows at a moderate rate as long as its supplied with plenty of water.  Being more dependant on water, rice plants can easily die during periods of drought.</Description>
     </RecordThing>
     <RecordThing>
@@ -5772,7 +5772,7 @@ While the wind turbine is optimized to produce power even on low atmosphere worl
     </RecordThing>
     <RecordThing>
       <Key>ItemBiomass</Key>
-      <Value>Biomass</Value>
+      <Value>生物質</Value>
       <Description>Diced organic material that is returned when food and organic matter is passed through the {THING:StructureRecycler} and {THING:StructureCentrifuge}. Can be burned in a {THING:StructureFurnace} into {THING:ItemCharcoal} for use in the {THING:StructureSolidFuelGenerator}.</Description>
     </RecordThing>
     <RecordThing>
@@ -8952,7 +8952,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </RecordThing>
     <RecordThing>
       <Key>ItemCocoaTree</Key>
-      <Value>Cocoa</Value>
+      <Value>可可</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
@@ -9225,7 +9225,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>Plant</Key>
-      <Value>Plant</Value>
+      <Value>種植</Value>
     </Record>
     <Record>
       <Key>Storage</Key>
@@ -9351,7 +9351,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>Open</Key>
-      <Value>Open</Value>
+      <Value>打開</Value>
     </Record>
     <Record>
       <Key>OnOff</Key>
@@ -9363,7 +9363,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>Powered</Key>
-      <Value>Powered</Value>
+      <Value>已通電</Value>
     </Record>
     <Record>
       <Key>Error</Key>
@@ -10609,7 +10609,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
-      <Value>Close</Value>
+      <Value>關閉</Value>
     </Record>
     <Record>
       <Key>AlertButtonTitle</Key>
@@ -11487,7 +11487,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>ButtonClear</Key>
-      <Value>Clear</Value>
+      <Value>清空</Value>
     </Record>
     <Record>
       <Key>StatusWindowThrust</Key>
@@ -13200,7 +13200,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>ElectronicReaderVolatiles</Key>
-      <Value>Volatiles</Value>
+      <Value>揮發物</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderGold</Key>
@@ -13232,11 +13232,11 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>ElectronicReaderSilicon</Key>
-      <Value>Silicon</Value>
+      <Value>矽</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderCobalt</Key>
-      <Value>Cobalt</Value>
+      <Value>鈷</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderCarbon</Key>
@@ -13272,19 +13272,19 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>ElectronicReaderInvar</Key>
-      <Value>Invar</Value>
+      <Value>殷瓦鋼</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderConstantan</Key>
-      <Value>Constantan</Value>
+      <Value>康銅</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderSolder</Key>
-      <Value>Solder</Value>
+      <Value>銲錫</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderSilicon</Key>
-      <Value>Silicon</Value>
+      <Value>矽</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderSalicylicAcid</Key>
@@ -13292,35 +13292,35 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>ElectronicReaderAlcohol</Key>
-      <Value>Alcohol</Value>
+      <Value>酒精</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderOil</Key>
-      <Value>Oil</Value>
+      <Value>油</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderFenoxitone</Key>
-      <Value>Fenoxitone</Value>
+      <Value>苯氧酮</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderColorRed</Key>
-      <Value>Red Coloring</Value>
+      <Value>紅色染料</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderColorBlue</Key>
-      <Value>Blue Coloring</Value>
+      <Value>藍色染料</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderColorYellow</Key>
-      <Value>Yellow Coloring</Value>
+      <Value>黃色染料</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderColorOrange</Key>
-      <Value>Orange Coloring</Value>
+      <Value>橘色染料</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderColorGreen</Key>
-      <Value>Green Coloring</Value>
+      <Value>綠色染料</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderMilk</Key>
@@ -14396,7 +14396,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickConstructDisc</Key>
-      <Value>Construct</Value>
+      <Value>建造</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickDeconstructDisc</Key>
@@ -14408,11 +14408,11 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickPlantDisc</Key>
-      <Value>Plant</Value>
+      <Value>種植</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickHarvestDisc</Key>
-      <Value>Harvest</Value>
+      <Value>採收</Value>
     </Record>
     <Record>
       <Key>ControlPlayerMovement</Key>
@@ -15465,7 +15465,7 @@ A {THING:StructureWaterPurifier} can be used to convert it back to {GAS:Water}.<
     </Record>
     <Record>
       <Key>ButtonClose</Key>
-      <Value>Close</Value>
+      <Value>關閉</Value>
     </Record>
     <Record>
       <Key>ButtonRocket</Key>
@@ -15583,7 +15583,7 @@ A {THING:StructureWaterPurifier} can be used to convert it back to {GAS:Water}.<
     </Record>
     <Record>
       <Key>ButtonMine</Key>
-      <Value>Mine</Value>
+      <Value>採礦</Value>
     </Record>
     <Record>
       <Key>ButtonDiscover</Key>
@@ -15780,7 +15780,7 @@ A {THING:StructureWaterPurifier} can be used to convert it back to {GAS:Water}.<
     </Record>
     <Record>
       <Key>Clear</Key>
-      <Value>Clear</Value>
+      <Value>清空</Value>
     </Record>
     <Record>
       <Key>Return</Key>
@@ -16160,7 +16160,7 @@ A {THING:StructureWaterPurifier} can be used to convert it back to {GAS:Water}.<
     </Record>
     <Record>
       <Key>Insert</Key>
-      <Value>Insert</Value>
+      <Value>放入</Value>
     </Record>
     <Record>
       <Key>Home</Key>
@@ -17090,7 +17090,7 @@ A {THING:StructureWaterPurifier} can be used to convert it back to {GAS:Water}.<
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>Volatiles</Value>
+      <Value>揮發物</Value>
     </Record>
     <Record>
       <Key>Gold</Key>
@@ -17122,11 +17122,11 @@ A {THING:StructureWaterPurifier} can be used to convert it back to {GAS:Water}.<
     </Record>
     <Record>
       <Key>Silicon</Key>
-      <Value>Silicon</Value>
+      <Value>矽</Value>
     </Record>
     <Record>
       <Key>Cobalt</Key>
-      <Value>Cobalt</Value>
+      <Value>鈷</Value>
     </Record>
   </Mineables>
   <ScreenSpaceToolTips/>
@@ -18593,11 +18593,11 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>ArmControlPlant</Key>
-      <Value>Plant</Value>
+      <Value>種植</Value>
     </Record>
     <Record>
       <Key>ArmControlHarvest</Key>
-      <Value>Harvest</Value>
+      <Value>採收</Value>
     </Record>
     <Record>
       <Key>YouNeedAWrenchForOrientation</Key>
@@ -19937,7 +19937,7 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>TooltipDeviceUnpowered</Key>
-      <Value>Unpowered</Value>
+      <Value>未通電</Value>
     </Record>
     <Record>
       <Key>DeviceError</Key>
@@ -20433,7 +20433,7 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>RocketVolatiles</Key>
-      <Value>Volatiles</Value>
+      <Value>揮發物</Value>
     </Record>
     <Record>
       <Key>RocketBatteryPercentage</Key>
@@ -20601,11 +20601,11 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>On</Key>
-      <Value>On</Value>
+      <Value>啟動</Value>
     </Record>
     <Record>
       <Key>Off</Key>
-      <Value>Off</Value>
+      <Value>關閉</Value>
     </Record>
     <Record>
       <Key>RocketScanActionInfo</Key>
