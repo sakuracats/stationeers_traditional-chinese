@@ -826,7 +826,7 @@
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardAirControl</Key>
-      <Value>Air Control</Value>
+      <Value>電路板 (空氣控制)</Value>
       <Description>When added to a {THING:StructureConsole}, air control circuit boards allow you to program an {THING:StructureActiveVent}. As with small dogs and 83% of people, air control circuits have only three modes: Pressure, Draft and Offline. Pressure mode maintains a 100kPa atmosphere, switching the active vent between inward and outward flow until target pressure is achieved. Draft mode allows you to pair active vents to circulate air. Offline mode deactivates the vent. </Description>
     </RecordThing>
     <RecordThing>
