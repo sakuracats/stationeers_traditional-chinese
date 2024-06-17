@@ -253,7 +253,7 @@
     </Record>
     <Record>
       <Key>Water</Key>
-      <Value>澆水</Value>
+      <Value>水</Value>
     </Record>
     <Record>
       <Key>PollutedWater</Key>
@@ -363,7 +363,7 @@
     </Record>
     <Record>
       <Key>Water</Key>
-      <Value>澆水</Value>
+      <Value>水</Value>
     </Record>
     <Record>
       <Key>Harvest</Key>
@@ -526,13 +526,13 @@
     <RecordThing>
       <Key>ApplianceMicrowave</Key>
       <Value>微波爐</Value>
-      <Description>雖然在過去的幾百年發明了無數「更好」的方法烹飪 {LINK:FoodPage;Food}，但很少有像 OK-Zoomer 微波爐那樣耐用且易於製造的。該型號由 {LINK:Xigo;Xigo} 設計，以 21 世紀中葉的經典模型為基礎，賦予其迷人的復古感覺。別擔心,它可以把{GAS:Water} 分子震得不得了。
+      <Description>雖然在過去的幾百年發明了無數「更好」的方法烹飪 {LINK:FoodPage;Food}，但很少有像 OK-Zoomer 微波爐那樣耐用且易於製造的。該型號由 {LINK:Xigo;Xigo} 設計，以 21 世紀中葉的經典模型為基礎，賦予其迷人的復古感覺。別擔心,它可以把 {GAS:Water} 分子震得不得了。
 只要用 {THING:ItemWrench} 把它安裝在 {THING:StructureBench} 上面並通電,照食譜操作,很快你就可以開始大展煮食手藝了!</Description>
     </RecordThing>
     <RecordThing>
       <Key>ApplianceReagentProcessor</Key>
       <Value>試劑處理器</Value>
-      <Description>在高功率果汁機和煉金師的蒸餾器之間,這台 {LINK:Xigo;Xigo} 試劑處理器可以把某些原料和食材轉變成烹飪和製作用的原料。它是太空廚房不可或缺的設備,只要把它螺絲釘在工作臺上,你就可以馬上開工了!</Description>
+      <Description>在高功率果汁機和煉金師的蒸餾器之間,這台 {LINK:Xigo;Xigo} 試劑處理器可以把某些原料和食材轉變成烹飪和製作用的原料。它是太空廚房不可或缺的設備,只要用 {THING:ItemWrench} 把它安裝在 {THING:StructureBench} ,你就可以馬上開工了!</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleArmL</Key>
@@ -547,47 +547,47 @@
     <RecordThing>
       <Key>BodyPartAstronautFemaleHead</Key>
       <Value>女太空人頭部</Value>
-      <Description>If the eyes are windows to the soul, what does that make the head?</Description>
+      <Description>如果眼睛是靈魂的窗戶，那麼頭部又是什麼呢？</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleLegL</Key>
       <Value>女太空人左腿</Value>
-      <Description>A leg, is a leg, is a leg.</Description>
+      <Description>一條腿，一條腿，還是一條腿。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleLegR</Key>
       <Value>女太空人右腿</Value>
-      <Description>This is a woman's right leg. To judge by its state, she was fairly healthy, of average height, with a tendency to walk on the balls of her feet.</Description>
+      <Description>這是女人的右腿。從她的狀態來看，她相當健康，身高中等，有用腳掌走路的傾向。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautFemaleTorso</Key>
       <Value>女太空人身體</Value>
-      <Description>This isn't going anywhere by itself.</Description>
+      <Description>她哪也去不了。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleArmL</Key>
       <Value>男太空人左手臂</Value>
-      <Description>Your arm is your fourth most important body part.</Description>
+      <Description>您的手臂是您身體第四重要的部位。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleArmR</Key>
       <Value>男太空人右手臂</Value>
-      <Description>There's nothing funny about this humerus.</Description>
+      <Description>這塊肱骨沒什麼好笑的。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleHead</Key>
       <Value>男太空人頭部</Value>
-      <Description>{LINK:Stationeers;Stationeer}s need to keep their heads at all times.</Description>
+      <Description>{LINK:Stationeers;Stationeer} 需要時刻保持頭腦清醒。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleLegL</Key>
       <Value>男太空人左腿</Value>
-      <Description>This is a leg. Someone probably misses it.</Description>
+      <Description>This is a leg. 可能有人會錯過它。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleLegR</Key>
       <Value>男太空人右腿</Value>
-      <Description>Legs are really useful things, but wheels would have been cool.</Description>
+      <Description>腿確實是有用的東西，但輪子就更酷了。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautTorso</Key>
@@ -812,17 +812,17 @@
     <RecordThing>
       <Key>CartridgeMedicalAnalyser</Key>
       <Value>晶片 (醫療分析)</Value>
-      <Description>將其放入到 OreCore {THING:ItemTablet} 後，{LINK:Asura;Asura's} 製造的醫療分析晶片將顯示用戶各種器官的健康狀況。由於設計缺陷，舊款機型因產生准星級 X 射線輻射而臭名昭著。新款的屏蔽技術的進步使用戶的風險減少一半以上。</Description>
+      <Description>將其放入到 OreCore {THING:ItemTablet} 後，{LINK:Asura;Asura} 所製造的醫療分析晶片將顯示用戶各種器官的健康狀況。由於設計缺陷，舊款機型因產生准星級 X 射線輻射而臭名昭著。新款的屏蔽技術的進步使用戶的風險減少一半以上。</Description>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeNetworkAnalyser</Key>
       <Value>晶片 (網絡分析)</Value>
-      <Description>網絡分析器是微電子工程的一個小傑作，它可以顯示電纜網絡的電流、電壓和瓦數，以及連接到它的所有設備。它基於 {LINK:Sinotai;Sinotai} 設計並被廣泛使用的技術，與 OreCore {THING:ItemTablet} 一起使用。</Description>
+      <Description>網絡分析晶片是微電子工程的一個小傑作，它可以顯示電纜網絡的電流、電壓和瓦數，以及連接到它的所有設備。它基於 {LINK:Sinotai;Sinotai} 設計並被廣泛使用的技術，與 OreCore {THING:ItemTablet} 一起使用。</Description>
     </RecordThing>
     <RecordThing>
       <Key>Character</Key>
-      <Value>Character</Value>
-      <Description>This is you.</Description>
+      <Value>角色</Value>
+      <Description>就是你。</Description>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardAirControl</Key>
