@@ -6,113 +6,113 @@
   <Reagents>
     <RecordReagent>
       <Key>Flour</Key>
-      <Value>Flour</Value>
-      <Unit>g</Unit>
+      <Value>麵粉</Value>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Milk</Key>
-      <Value>Milk</Value>
-      <Unit>ml</Unit>
+      <Value>牛奶</Value>
+      <Unit>毫升</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Egg</Key>
-      <Value>Egg</Value>
+      <Value>蛋</Value>
       <Unit/>
     </RecordReagent>
     <RecordReagent>
       <Key>Iron</Key>
-      <Value>Iron</Value>
-      <Unit>g</Unit>
+      <Value>鐵</Value>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Gold</Key>
-      <Value>Gold</Value>
-      <Unit>g</Unit>
+      <Value>金</Value>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Carbon</Key>
-      <Value>Carbon</Value>
-      <Unit>g</Unit>
+      <Value>碳</Value>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Uranium</Key>
-      <Value>Uranium</Value>
-      <Unit>g</Unit>
+      <Value>鈾</Value>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Copper</Key>
-      <Value>Copper</Value>
-      <Unit>g</Unit>
+      <Value>銅</Value>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Steel</Key>
-      <Value>Steel</Value>
-      <Unit>g</Unit>
+      <Value>鋼</Value>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Hydrocarbon</Key>
-      <Value>Hydrocarbon</Value>
-      <Unit>g</Unit>
+      <Value>烴</Value>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Silver</Key>
-      <Value>Silver</Value>
-      <Unit>g</Unit>
+      <Value>銀</Value>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Nickel</Key>
-      <Value>Nickel</Value>
-      <Unit>g</Unit>
+      <Value>鎳</Value>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Lead</Key>
-      <Value>Lead</Value>
-      <Unit>g</Unit>
+      <Value>鉛</Value>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Electrum</Key>
-      <Value>Electrum</Value>
-      <Unit>g</Unit>
+      <Value>琥珀金</Value>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Invar</Key>
       <Value>Invar</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Constantan</Key>
       <Value>Constantan</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Solder</Key>
       <Value>Solder</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Plastic</Key>
       <Value>Plastic</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Silicon</Key>
       <Value>Silicon</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>SalicylicAcid</Key>
       <Value>Salicylic Acid</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Alcohol</Key>
       <Value>Alcohol</Value>
-      <Unit>ml</Unit>
+      <Unit>毫升</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Oil</Key>
       <Value>Oil</Value>
-      <Unit>ml</Unit>
+      <Unit>毫升</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Potato</Key>
@@ -127,32 +127,32 @@
     <RecordReagent>
       <Key>Fenoxitone</Key>
       <Value>Fenoxitone</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorRed</Key>
       <Value>Red Coloring</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorGreen</Key>
       <Value>Green Coloring</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorBlue</Key>
       <Value>Blue Coloring</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorYellow</Key>
       <Value>Yellow Coloring</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorOrange</Key>
       <Value>Orange Coloring</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Pumpkin</Key>
@@ -162,37 +162,37 @@
     <RecordReagent>
       <Key>Rice</Key>
       <Value>Rice</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Waspaloy</Key>
       <Value>Waspaloy</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Stellite</Key>
       <Value>Stellite</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Inconel</Key>
       <Value>Inconel</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Hastelloy</Key>
       <Value>Hastelloy</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Astroloy</Key>
       <Value>Astroloy</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Cobalt</Key>
       <Value>Cobalt</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Corn</Key>
@@ -217,17 +217,17 @@
     <RecordReagent>
       <Key>Mushroom</Key>
       <Value>Mushroom</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Sugar</Key>
       <Value>Sugar</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Cocoa</Key>
       <Value>Cocoa</Value>
-      <Unit>g</Unit>
+      <Unit>公克</Unit>
     </RecordReagent>
   </Reagents>
   <Gases>
@@ -1129,7 +1129,7 @@ To use on yourself: put duct tape in your active hand, hold RIGHT MOUSE BUTTON t
     </RecordThing>
     <RecordThing>
       <Key>ItemEgg</Key>
-      <Value>Egg</Value>
+      <Value>蛋</Value>
       <Description>Layed by {THING:NpcChicken} about once per day and can used in cooking.</Description>
     </RecordThing>
     <RecordThing>
@@ -1154,7 +1154,7 @@ To use on yourself: put duct tape in your active hand, hold RIGHT MOUSE BUTTON t
     </RecordThing>
     <RecordThing>
       <Key>ItemFertilizedEgg</Key>
-      <Value>Egg</Value>
+      <Value>蛋</Value>
       <Description>To hatch it requires an incubation temperature of between 35 and 45 degrees Celsius and will hatch into a {THING:NpcChick}. If the egg is exposed to tepratures below 10 degrees it will no longer be viable.</Description>
     </RecordThing>
     <RecordThing>
@@ -1169,7 +1169,7 @@ To use on yourself: put duct tape in your active hand, hold RIGHT MOUSE BUTTON t
     </RecordThing>
     <RecordThing>
       <Key>ItemFlour</Key>
-      <Value>Flour</Value>
+      <Value>麵粉</Value>
       <Description>Pulverized {THING:ItemWheat}, a key ingredient in many foods created by the {THING:ApplianceMicrowave} and the {THING:ItemKitAutomatedOven}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1487,7 +1487,7 @@ To use on yourself: put duct tape in your active hand, hold RIGHT MOUSE BUTTON t
     </RecordThing>
     <RecordThing>
       <Key>ItemMilk</Key>
-      <Value>Milk</Value>
+      <Value>牛奶</Value>
       <Description>Full disclosure, it's not actually 'milk', but an {LINK:Agrizero;Agrizero-invented} synthesis of 5ml {THING:ItemSoyOil} and 5g {THING:ItemFern}, delicately blended in the {THING:ApplianceChemistryStation}. Surprisingly filling, it can be used as an ingredient to cook other {LINK:FoodPage;food} in the {THING:ApplianceMicrowave} or {THING:StructureAutomatedOven}. Think, {THING:ItemMuffin}.</Description>
     </RecordThing>
     <RecordThing>
@@ -13180,11 +13180,11 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>ElectronicReaderWeightSymbol</Key>
-      <Value>g</Value>
+      <Value>公克</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderIron</Key>
-      <Value>Iron</Value>
+      <Value>鐵</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderIce</Key>
@@ -13204,7 +13204,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>ElectronicReaderGold</Key>
-      <Value>Gold</Value>
+      <Value>金</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderCoal</Key>
@@ -13212,23 +13212,23 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>ElectronicReaderCopper</Key>
-      <Value>Copper</Value>
+      <Value>銅</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderUranium</Key>
-      <Value>Uranium</Value>
+      <Value>鈾</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderSilver</Key>
-      <Value>Silver</Value>
+      <Value>銀</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderNickel</Key>
-      <Value>Nickel</Value>
+      <Value>鎳</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderLead</Key>
-      <Value>Lead</Value>
+      <Value>鉛</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderSilicon</Key>
@@ -13240,35 +13240,35 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>ElectronicReaderCarbon</Key>
-      <Value>Carbon</Value>
+      <Value>碳</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderSteel</Key>
-      <Value>Steel</Value>
+      <Value>鋼</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderUranium</Key>
-      <Value>Uranium</Value>
+      <Value>鈾</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderHydrocarbon</Key>
-      <Value>Hydrocarbon</Value>
+      <Value>烴</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderSilver</Key>
-      <Value>Silver</Value>
+      <Value>銀</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderNickel</Key>
-      <Value>Nickel</Value>
+      <Value>鎳</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderLead</Key>
-      <Value>Lead</Value>
+      <Value>鉛</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderElectrum</Key>
-      <Value>Electrum</Value>
+      <Value>琥珀金</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderInvar</Key>
@@ -13324,15 +13324,15 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>ElectronicReaderMilk</Key>
-      <Value>Milk</Value>
+      <Value>牛奶</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderFlour</Key>
-      <Value>Flour</Value>
+      <Value>麵粉</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderEgg</Key>
-      <Value>Egg</Value>
+      <Value>蛋</Value>
     </Record>
     <Record>
       <Key>ElectronicReadereggs</Key>
@@ -13340,7 +13340,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>ElectronicReaderLiquidMeasurement</Key>
-      <Value>ml</Value>
+      <Value>毫升</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderTime</Key>
@@ -17074,7 +17074,7 @@ A {THING:StructureWaterPurifier} can be used to convert it back to {GAS:Water}.<
   <Mineables>
     <Record>
       <Key>Iron</Key>
-      <Value>Iron</Value>
+      <Value>鐵</Value>
     </Record>
     <Record>
       <Key>Ice</Key>
@@ -17094,7 +17094,7 @@ A {THING:StructureWaterPurifier} can be used to convert it back to {GAS:Water}.<
     </Record>
     <Record>
       <Key>Gold</Key>
-      <Value>Gold</Value>
+      <Value>金</Value>
     </Record>
     <Record>
       <Key>Coal</Key>
@@ -17102,23 +17102,23 @@ A {THING:StructureWaterPurifier} can be used to convert it back to {GAS:Water}.<
     </Record>
     <Record>
       <Key>Copper</Key>
-      <Value>Copper</Value>
+      <Value>銅</Value>
     </Record>
     <Record>
       <Key>Uranium</Key>
-      <Value>Uranium</Value>
+      <Value>鈾</Value>
     </Record>
     <Record>
       <Key>Silver</Key>
-      <Value>Silver</Value>
+      <Value>銀</Value>
     </Record>
     <Record>
       <Key>Nickel</Key>
-      <Value>Nickel</Value>
+      <Value>鎳</Value>
     </Record>
     <Record>
       <Key>Lead</Key>
-      <Value>Lead</Value>
+      <Value>鉛</Value>
     </Record>
     <Record>
       <Key>Silicon</Key>
