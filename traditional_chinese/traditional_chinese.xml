@@ -233,7 +233,7 @@
   <Gases>
     <Record>
       <Key>Oxygen</Key>
-      <Value>氧</Value>
+      <Value>氧氣</Value>
     </Record>
     <Record>
       <Key>CarbonDioxide</Key>
@@ -241,7 +241,7 @@
     </Record>
     <Record>
       <Key>Nitrogen</Key>
-      <Value>氮</Value>
+      <Value>氮氣</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>
@@ -293,7 +293,7 @@
     </Record>
     <Record>
       <Key>Hydrogen</Key>
-      <Value>氫</Value>
+      <Value>氫氣</Value>
     </Record>
     <Record>
       <Key>LiquidHydrogen</Key>
@@ -582,7 +582,8 @@
     <RecordThing>
       <Key>BodyPartAstronautMaleLegL</Key>
       <Value>男太空人左腿</Value>
-      <Description>This is a leg. 可能有人會錯過它。</Description>
+      <Description>這是一條腿。
+可能有人會錯過它。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleLegR</Key>
@@ -592,7 +593,7 @@
     <RecordThing>
       <Key>BodyPartAstronautTorso</Key>
       <Value>男太空人身體</Value>
-      <Description>Once, this was most of someone.</Description>
+      <Description>曾經，這是某人的大部分。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickBody</Key>
@@ -602,207 +603,209 @@
     <RecordThing>
       <Key>BodyPartChickenBrownBody</Key>
       <Value>褐色雞身體</Value>
-      <Description>Let's not over-complicate things. It's a chicken.</Description>
+      <Description>我們不要讓事情過於複雜化。這是一隻雞。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenBrownHead</Key>
       <Value>褐色雞頭部</Value>
-      <Description>A chicken head is useful for many things, but principally voodoo and space curses.</Description>
+      <Description>雞頭有很多用處，但主要是巫毒和空間詛咒。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenBrownLegL</Key>
       <Value>褐色雞左腿</Value>
-      <Description>A chicken leg.</Description>
+      <Description>一隻雞腿。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenBrownLegR</Key>
       <Value>褐色雞右腿</Value>
-      <Description>Also a chicken leg.</Description>
+      <Description>還是一隻雞腿。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenBrownTail</Key>
       <Value>褐色雞尾巴</Value>
-      <Description>A chicken's tail is arguably its least endearing feature.</Description>
+      <Description>雞尾巴可以說是它最不討人喜歡的特徵。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenBrownWingL</Key>
       <Value>褐色雞左翅</Value>
-      <Description>A chicken wing.</Description>
+      <Description>一隻雞翅。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenBrownWingR</Key>
       <Value>褐色雞右翅</Value>
-      <Description>A chicken wing.</Description>
+      <Description>一隻雞翅。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenWhiteBody</Key>
       <Value>白色雞身體</Value>
-      <Description>Part of a chicken.</Description>
+      <Description>雞的一部分。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenWhiteHead</Key>
       <Value>白色雞頭部</Value>
-      <Description>A chicken's head. Once used as currency by long-departed alien races.</Description>
+      <Description>一個雞頭。曾經被早已消失的外星種族用作貨幣。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenWhiteLegL</Key>
       <Value>白色雞左腿</Value>
-      <Description>A chicken leg.</Description>
+      <Description>一隻雞腿。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenWhiteLegR</Key>
       <Value>白色雞右腿</Value>
-      <Description>A chicken leg.</Description>
+      <Description>一隻雞腿。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenWhiteTail</Key>
       <Value>白色雞尾巴</Value>
-      <Description>A chicken tail.</Description>
+      <Description>一條雞尾巴。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenWhiteWingL</Key>
       <Value>白色雞左翅</Value>
-      <Description>It's a chicken wing.</Description>
+      <Description>這是一隻雞翅。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenWhiteWingR</Key>
       <Value>白色雞右翅</Value>
-      <Description>A chicken wing.</Description>
+      <Description>一隻雞翅。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickHead</Key>
       <Value>小雞頭部</Value>
-      <Description>The head of a chicken. Once, it had the heart of a tiger.</Description>
+      <Description>雞頭。曾經，它有一顆想當虎的心。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickLegL</Key>
       <Value>小雞左腿</Value>
-      <Description>A chicken leg.</Description>
+      <Description>一隻雞腿。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickLegR</Key>
       <Value>小雞右腿</Value>
-      <Description>A chicken leg.</Description>
+      <Description>一隻雞腿。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickTail</Key>
       <Value>小雞尾巴</Value>
-      <Description>A chicken's tail.</Description>
+      <Description>一條雞尾巴。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickWingL</Key>
       <Value>小雞左翅</Value>
-      <Description>A chicken wing.</Description>
+      <Description>一隻雞翅。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickWingR</Key>
       <Value>小雞右翅</Value>
-      <Description>A chicken wing.</Description>
+      <Description>一隻雞翅。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienArmL</Key>
       <Value>Graylien 左臂</Value>
-      <Description>An alien's arm.</Description>
+      <Description>外星人的手臂。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienArmR</Key>
       <Value>Graylien 右臂</Value>
-      <Description>An alien's arm.</Description>
+      <Description>外星人的手臂。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienBody</Key>
       <Value>Graylien 身體</Value>
-      <Description>An alien's body, or a very convincing fake.</Description>
+      <Description>外星人的屍體，或者一個非常逼真的假造品。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienHead</Key>
       <Value>Graylien 頭部</Value>
-      <Description>An alien's head.</Description>
+      <Description>外星人的頭。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienLegL</Key>
       <Value>Graylien 左腿</Value>
-      <Description>An alien's leg.</Description>
+      <Description>外星人的腿。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienLegR</Key>
       <Value>Graylien 右腿</Value>
-      <Description>An alien's other leg.</Description>
+      <Description>外星人的另一條腿。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienPelvis</Key>
       <Value>Graylien 骨盆</Value>
-      <Description>An alien's pelvis.</Description>
+      <Description>外星人的骨盆。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackBody</Key>
       <Value>黑色公雞身體</Value>
-      <Description>A rooster's body.</Description>
+      <Description>公雞的身體。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackHead</Key>
       <Value>黑色公雞頭部</Value>
-      <Description>A rooster's head. The perfect gift for mother's day.</Description>
+      <Description>一個公雞的頭。母親節的完美禮物。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackLegL</Key>
       <Value>黑色公雞左腿</Value>
-      <Description>A rooster's leg.</Description>
+      <Description>一條公雞的腿。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackLegR</Key>
       <Value>黑色公雞右腿</Value>
-      <Description>A rooster's leg.</Description>
+      <Description>一條公雞的腿。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackTail</Key>
       <Value>黑色公雞尾巴</Value>
-      <Description>A rooster's tail.</Description>
+      <Description>公雞的尾巴。
+</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackWingL</Key>
       <Value>黑色公雞左翅</Value>
-      <Description>A rooster's wing.</Description>
+      <Description>公雞的翅膀。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackWingR</Key>
       <Value>黑色公雞右翅</Value>
-      <Description>A rooster's wing.</Description>
+      <Description>公雞的翅膀。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownBody</Key>
       <Value>褐色公雞身體</Value>
-      <Description>A rooster's body.</Description>
+      <Description>公雞的身體。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownHead</Key>
       <Value>褐色公雞頭部</Value>
-      <Description>The head of a brown rooster.</Description>
+      <Description>褐色公雞的頭。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownLegL</Key>
       <Value>褐色雞左腿</Value>
-      <Description>A brown rooster's leg.</Description>
+      <Description>褐色公雞的腿。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownLegR</Key>
       <Value>褐色公雞右腿</Value>
-      <Description>A rooster's leg.</Description>
+      <Description>一條公雞的腿。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownTail</Key>
       <Value>褐色公雞尾巴</Value>
-      <Description>A rooster's tail.</Description>
+      <Description>公雞的尾巴。
+</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownWingL</Key>
       <Value>褐色公雞左翅</Value>
-      <Description>A rooster's wing.</Description>
+      <Description>公雞的翅膀。</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownWingR</Key>
       <Value>褐色公雞右翅</Value>
-      <Description>A brown rooster's wing. Well, brownish.</Description>
+      <Description>褐色公雞的翅膀。嗯，是褐色的。</Description>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeAtmosAnalyser</Key>
@@ -827,148 +830,151 @@
     <RecordThing>
       <Key>CircuitboardAirControl</Key>
       <Value>電路板 (空氣控制)</Value>
-      <Description>When added to a {THING:StructureConsole}, air control circuit boards allow you to program an {THING:StructureActiveVent}. As with small dogs and 83% of people, air control circuits have only three modes: Pressure, Draft and Offline. Pressure mode maintains a 100kPa atmosphere, switching the active vent between inward and outward flow until target pressure is achieved. Draft mode allows you to pair active vents to circulate air. Offline mode deactivates the vent. </Description>
+      <Description>將空氣控制電路板添加到 {THING:StructureConsole} 時，您可以對 {THING:StructureActiveVent} 進行編程。空氣控制電路也只有三個模式：壓力、通風和關閉。壓力模式保持 100 千帕 (kPa) 的大氣壓，在達到目標壓力之前，將主動通風口在內向和外向流之間切換。通風模式允許您將主動通風口配對以循環空氣。關閉則會停用通風口。 </Description>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardAirlockControl</Key>
-      <Value>Airlock</Value>
-      <Description>Rumored to have been first sketched on a {LINK:Norsec;Norsec} toilet wall by a disgruntled engineer, the Exgress airlock control circuit board’s versatility and ease of fabrication has made it the {LINK:Stationeers;Stationeers} control system of choice for {THING:StructureAirlock} cycling protocols. 
+      <Value>電路板 (氣閘門控制)</Value>
+      <Description>據傳說，Exgress 氣閘門控制電路板最初是由一名不滿的工程師在 {LINK:Norsec;Norsec} 廁所牆上草繪而成，其多功能性和易於製造的特點使其成為 {THING:StructureAirlock} 循環協議的首選 {LINK:Stationeers;Stationeers} 控制系統。
 
-To enter setup mode, insert the board into a {THING:StructureConsole} along with a data disk. In this mode, you can see all data-accessible objects currently connected to the {THING:StructureConsole}. Doors, lights, gas sensors and slave consoles can be selected (highlighted green), and will be controlled once the data disk is removed.</Description>
+請將氣閘門控制電路與 {THING:ItemDataDisk} 一起插入 {THING:StructureConsole}。在此模式下，您可以看到目前連接到 {THING:StructureConsole} 的所有可存取資料的物件。可以選擇（以綠色顯示）門、燈、氣體傳感器和從屬控制台，並且在移除 {THING:ItemDataDisk} 後將由其控制。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ImGuiCircuitboardAirlockControl</Key>
-      <Value>Airlock (Experimental)</Value>
+      <Value>電路板 (氣閘門控制)(實驗性)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardCameraDisplay</Key>
-      <Value>Camera Display</Value>
-      <Description>Surveillance is sometimes necessary when building bases in highly hostile environments. The camera display circuit board allows wary Stationeers to turn a {THING:StructureConsole} into a security display when connected to a {THING:StructureCamera}.</Description>
+      <Value>電路板 (相機顯示)</Value>
+      <Description>在高度敵意的環境中建造基地時，有時需要監視。當安裝到 {THING:StructureCamera} 時，相機顯示電路板允許警惕的 Stationeer 將 {THING:StructureConsole} 變成監控顯示器。</Description>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardDoorControl</Key>
-      <Value>Door Control</Value>
-      <Description>A basic tool of {LINK:Stationeers;Stationeer} base construction, this circuit board provides a way to open and close a {THING:StructureCompositeDoor}, {THING:StructureBlastDoor} or {THING:StructureGlassDoor} remotely, when connected to a {THING:StructureConsole}. This system can be further linked to {THING:StructureMotionSensor} to create automatic doors.</Description>
+      <Value>電路板 (門禁控制)</Value>
+      <Description>這是 {LINK:Stationeers;Stationeer} 基地建設的基本工具，當安裝到 {THING:StructureConsole} 時，門禁控制電路板提供了一種遠程打開和關閉 {THING:StructureCompositeDoor} 、 {THING:StructureBlastDoor} 或 {THING:StructureGlassDoor} 的方法。該系統還可以與 {THING:StructureMotionSensor} 連接以創建自動門。</Description>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardGasDisplay</Key>
-      <Value>Gas Display</Value>
-      <Description>Information is power. Place this circuitboard into a {THING:StructureConsole} to create a display that shows gas pressure or temperature of any connected tank, storage cannister, {THING:ItemPipeAnalyizer} or {THING:ItemGasSensor}.</Description>
+      <Value>電路板 (氣體分析)</Value>
+      <Description>知識就是力量。將此電路板放入控制台以創建一個顯示屏，顯示任何連接的壓力罐、壓力槽、{THING:ItemPipeAnalyizer} 或 {THING:ItemGasSensor} 的氣體壓力或溫度。</Description>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardModeControl</Key>
-      <Value>Mode Control</Value>
-      <Description>Can't decide which mode you love most? This circuit board allows you to switch any connected device between operation modes.</Description>
+      <Value>電路板 (模式控制)</Value>
+      <Description>無法決定您最喜歡哪一種模式？此電路板可讓您在任何連接的裝置之間切換操作模式。</Description>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardPowerControl</Key>
-      <Value>Power Control</Value>
-      <Description>Under distant suns and demanding environments, {LINK:Stationeers;Stationeer} systems need to balance reliability, resilience and versatility. The power control board allows remote enabling and disabling of selected devices, disconnecting manual operation.
+      <Value>電路板 (電力控制)</Value>
+      <Description>在遙遠的太陽和苛刻的環境下，{LINK:Stationeers;Stationeer} 系統需要平衡可靠性、韌性和通用性。電力控制電路板允許遠端啟用和停用選定的設備，而無須手動操作。
 
-The circuit board has two modes: 'Link' switches all devices on or off; 'Toggle' switches each device to their alternate state. </Description>
+電路板有兩種模式：'連接模式' 將所有設備啟動或關閉； '目標模式' 切換指定設備的狀態。 </Description>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardShipDisplay</Key>
-      <Value>Ship Display</Value>
-      <Description>When the original {LINK:Stationeers;Stationeer} Handbook collapsed under its own weight into a singularity, certain information was irretrievably lost. Amongst this mysterious corpus of knowledge is the exact purpose of the ship display board.</Description>
+      <Value>電路板 (船隻顯示)</Value>
+      <Description>當原來的 {LINK:Stationeers;Stationeer} 手冊因自身的重量而坍塌成奇點時，某些資訊已經無法挽回地消失了。在這神秘的知識寶庫中，包括船隻顯示電路板的確切用途。</Description>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardSolarControl</Key>
-      <Value>Solar Control</Value>
-      <Description>Adding a solar control board to a {THING:StructureConsole} lets you manually control the horizontal and vertical angles of any connected {THING:StructureSolarPanel}.</Description>
+      <Value>電路板 (太陽能控制)</Value>
+      <Description>將太陽能控制電路板安裝到 {THING:StructureSolarPanel} 可讓您手動控制任何連接的 {THING:StructureSolarPanel} 的水平和垂直角度。</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicAirConditioner</Key>
-      <Value>Portable Air Conditioner</Value>
-      <Description>The {LINK:Sinotai;Sinotai}-designed Huxi portable air conditioner cools by drawing heat from the atmosphere and storing it, or adding heat to the atmosphere from its internal tank. With a max internal pressure of 8106kPa, its capacity is relatively limited, physics being clear on this subject. To extend its temperature storage ability, bolt the Huxi to a {THING:StructureTankConnector}, then connect it to a pipe network supplying hot or cold {LINK:GasPage;gases}.</Description>
+      <Value>便攜式空調</Value>
+      <Description>{LINK:Sinotai;Sinotai} 設計的 Huxi 可攜式空調機通過從大氣中吸收熱量並將其存儲起來，或從內部壓力槽向大氣中釋放熱量來進行冷卻。由於最大內部壓力為 8106 千帕 (kPa)，其容量相對有限，這一點物理上是明確的。要擴大其溫度儲存能力，請將 Huxi 栓接到 {THING:StructureTankConnector} 上，然後將其連接到供應熱或冷 {LINK:GasPage;氣體} 的管線網路上。</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrate</Key>
-      <Value>Dynamic Crate</Value>
-      <Description>The humble dynamic crate has become a symbol of {LINK:Stationeers;Stationeer} invention and independence. With twelve slots and handles at either end for ease of carriage, it's both standard issue and critical kit for cadets and Commanders alike.</Description>
+      <Value>集裝箱</Value>
+      <Description>簡陋的可攜式集裝箱已成為 {LINK:Stationeers;Stationeer} 發明和獨立的象徵。兩端各有 12 個插槽和把手，方便攜帶，對於學員和指揮官來說，它既是標準配置，也是關鍵套件。</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrateBuildingSupplies</Key>
-      <Value>Crate (Building Supplies)</Value>
+      <Value>集裝箱 (建築用品)</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrateCableSupplies</Key>
-      <Value>Crate (Cabling Supplies)</Value>
+      <Value>集裝箱 (電纜用品)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrateConveyorSupplies</Key>
-      <Value>Crate (Conveyor Supplies)</Value>
+      <Value>集裝箱 (輸送帶用品)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCratePipeSupplies</Key>
-      <Value>Crate (Pipe Supplies)</Value>
+      <Value>集裝箱 (管線用品)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterAir</Key>
-      <Value>Portable Gas Tank (Air)</Value>
-      <Description>Portable gas tanks do one thing: store gas. But there's lots you can do with them. To refill the tank, bolt it to a {THING:ItemTankConnector}, then connect it to a pipe network. Try to avoid pushing it above 10 MPa, or bad things happen. Once it's full, you can refill a {THING:ItemGasCanisterOxygen} by attaching it to the tank's striped section. Or you could vent the tank's variable flow rate valve into a room and create an atmosphere. They also attach to rovers and rockets. Alternatively, kick it over and practice barrel rolling. The possibilities are endless.</Description>
+      <Value>可攜式氣體壓力槽</Value>
+      <Description>可攜式氣體壓力槽只做一件事：儲存氣體。但是您可以用它們做很多事情。要重新填充壓力槽，請將其固定在 {THING:ItemTankConnector} 上，然後將其連接到管線網絡。盡量避免使其超過 10 百萬帕 (MPa)，否則會發生不好的事情。一旦裝滿，您可以將 {THING:ItemGasCanisterOxygen} 插入壓力槽的條紋部分進行重新填充。或者您可以將壓力槽的可變流量閥門打開排放到房間中並創造一個大氣。它們也可用於漫遊車和火箭。或者，將其踢倒並練習滾桶。可能性是無窮的。</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterCarbonDioxide</Key>
-      <Value>Portable Gas Tank (CO2)</Value>
-      <Description>Portable gas tanks do one thing: store gas. To refill the tank, bolt it to a {THING:ItemTankConnector}, then connect it to a pipe network. Try to avoid pushing it above 10 MPa, or ... boom. Once it's full, you can refill a {THING:ItemGasCanisterCarbonDioxide} by attaching it to the tank's striped section. Or you could vent the tank's variable flow rate valve into a room and create an atmosphere ... of sorts.</Description>
+      <Value>可攜式氣體壓力槽 (二氧化碳)</Value>
+      <Description>可攜式氣體壓力槽只做一件事：儲存氣體。要重新填充壓力槽，請將其固定在 {THING:ItemTankConnector} 上，然後將其連接到管線網絡。盡量避免使其超過 10 百萬帕 (MPa)，否則會... 砰！一旦裝滿，您可以將 {THING:ItemGasCanisterCarbonDioxide} 插入壓力槽的條紋部分進行重新填充。或者您可以將壓力槽的可變流量閥打開排放到房間中並創造一個大氣... 或者說是某種大氣。</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterEmpty</Key>
-      <Value>Portable Gas Tank</Value>
-      <Description>Portable gas tanks store gas. To refill one, bolt it to a {THING:ItemTankConnector}, then connect it to a pipe network. Try to avoid pushing it above 10 MPa, or bad things happen. Once it's full, you can refill a {THING:ItemGasCanisterEmpty} by attaching it to the tank's striped section. Or you could vent the tank's variable flow rate valve into a room and create an atmosphere.</Description>
+      <Value>可攜式氣體壓力槽 (空)</Value>
+      <Description>可攜式氣體壓力槽。要重新填充壓力槽，請將其固定在 {THING:ItemTankConnector} 上，然後將其連接到管線網絡。盡量避免使其超過 10 百萬帕 (MPa)，否則會發生不好的事情。或者您可以將壓力槽的可變流量閥門打開排放到房間中並創造一個大氣。</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterFuel</Key>
-      <Value>Portable Gas Tank (Fuel)</Value>
-      <Description>Portable tanks store gas. They're good at it. If you need to refill a tank, bolt it to a {THING:ItemTankConnector}, then connect it to a pipe network. Try to avoid pushing it above 10 MPa, or things get messy. You can refill a {THING:ItemGasCanisterFuel} by attaching it to the tank's striped section. Or you could use a {THING:ItemWrench} to attach it to a rover or rocket for later. It's really up to you.</Description>
+      <Value>可攜式氣體壓力槽 (燃料)</Value>
+      <Description>可攜式壓力槽儲存氣體。他們很擅長如果您需要重新填充壓力槽，請將其固定在 {THING:ItemTankConnector} 上，然後將其連接到管線網絡。盡量避免使其超過 10 百萬帕 (MPa)，否則事情會變得一團糟。您可以將 {THING:ItemGasCanisterFuel} 連接到壓力槽的條紋部分進行重新填充。或者，您可以使用 {THING:ItemWrench} 將其連接到漫遊車或火箭上以供稍後使用。這完全取決於你。</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterNitrogen</Key>
-      <Value>Portable Gas Tank (Nitrogen)</Value>
-      <Description>Portable tanks store gas. If you need to refill a tank, bolt it to a {THING:ItemTankConnector} using a {THING:ItemWrench}, then connect it to a pipe network. Try to avoid pushing it above 10 MPa, or you'll end up with {GAS:Nitrogen} in places you weren't expecting. You can refill a {THING:ItemGasCanisterNitrogen} by attaching it to the tank's striped section. Or you could use a {THING:ItemWrench} to attach it to a rover or rocket for later.</Description>
+      <Value>可攜式氣體壓力槽 (氮氣)</Value>
+      <Description>可攜式壓力槽儲存氣體。如果您需要重新填充壓力槽，請使用 {THING:ItemWrench} 將其固定在 {THING:ItemTankConnector} 上，然後將其連接到管線網絡。盡量避免將其壓力超過 10 百萬帕 (MPa)，否則您最終會在意想不到的地方出現 {GAS:Nitrogen}。您可以將 {THING:ItemGasCanisterNitrogen} 連接到壓力槽的條紋部分進行重新填充。或者，您可以使用 {THING:ItemWrench} 將其連接到漫遊車或火箭上以供稍後使用。</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterOxygen</Key>
-      <Value>Portable Gas Tank (Oxygen)</Value>
-      <Description>Portable tanks store gas. If you need to refill a tank, bolt it to a {THING:ItemTankConnector} using a {THING:ItemWrench}, then connect it to a pipe network. Try to avoid pushing it above 10 MPa, or you'll be picking tank shards out of your face. You can refill a {THING:ItemGasCanisterOxygen} by attaching it to the tank's striped section. Or you could vent it into a sealed room to create an atmosphere. Or even paint it pink, call it Steve and fill that sad space in your heart.</Description>
+      <Value>可攜式氣體壓力槽 (氧氣)</Value>
+      <Description>可攜式壓力槽儲存氣體。如果您需要重新填充壓力槽，請使用 {THING:ItemWrench} 將其固定在 {THING:ItemTankConnector} 上，然後將其連接到管線網絡。盡量避免使其超過 10 百萬帕 (MPa)，否則您將不得不從臉上挑出壓力槽碎片。您可以將 {THING:ItemGasCanisterOxygen} 連接到壓力槽的條紋部分進行重新填充。或者您可以將其排入密封的房間以營造氣氛。或者甚至把它塗成粉紅色，稱它為史蒂夫，填補你心中悲傷的空間。</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterVolatiles</Key>
-      <Value>Portable Gas Tank (Volatiles)</Value>
-      <Description>Portable tanks store gas. To refill one, bolt it to a {THING:ItemTankConnector} using a {THING:ItemWrench}, then connect it to a pipe network. Don't fill it above 10 MPa, unless you're the sort who loves complicated, flammable emergencies. You can refill a {THING:ItemGasCanisterVolatiles} by attaching it to the tank's striped section. Or you could use a {THING:ItemWrench} to attach to a rocket and show it around the Solar System.</Description>
+      <Value>可攜式氣體壓力槽 (揮發物)</Value>
+      <Description>可攜式壓力槽儲存氣體。如果您需要重新填充壓力槽，請使用 {THING:ItemWrench} 將其固定在 {THING:ItemTankConnector} 上，然後將其連接到管線網絡。填充壓力不要超過 10 百萬帕 (MPa)，除非您是那種喜歡複雜、易燃緊急情況的人。
+您可以透過將 {THING:ItemGasCanisterVolatiles} 連接到壓力槽的條紋部分來重新填充它。或者您可以使用 {THING:ItemWrench} 連接到火箭並在太陽系周圍展示它。
+</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterWater</Key>
-      <Value>Portable Liquid Tank (Water)</Value>
-      <Description>This portable tank stores liquid, and liquid only. You just have to fill it up. To do this, bolt one to a {THING:ItemTankConnector} using a {THING:ItemWrench}, then connect it to {THING:StructurePipeLiquidStraight} to supply liquid to a network. 
-Try to keep pressure under 10 MPa, or you'll end up wet, hurt and sorry, without any of the fun.
-You can refill a {THING:ItemGasCanisterWater} by attaching it to the tank's striped section. Or you could use a {THING:ItemWrench} to attach it to a rocket and take it somewhere distant and dry, then feel good about yourself.</Description>
+      <Value>可攜式液體壓力槽 (水)</Value>
+      <Description>此可攜式壓力槽儲存液體，並且僅限液體。您只需將其填滿。為此，請使用 {THING:ItemWrench} 將其固定到 {THING:ItemTankConnector}，然後將其連接到 {THING:StructurePipeLiquidStraight} 以向管線網路供應液體。
+嘗試將壓力保持在 10 百萬帕 (MPa) 以下，否則您會變濕、受傷遺憾，卻沒有享受到任何樂趣。
+您可以通過將 {THING:ItemGasCanisterWater} 連接到壓力槽的條紋部分來重新填充它。或者，您可以使用 {THING:ItemWrench} 將其連接到火箭上，並將其帶到遙遠而乾燥的地方，然後自我感覺良好。</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicLiquidCanisterEmpty</Key>
-      <Value>Portable Liquid Tank</Value>
-      <Description>This portable tank stores liquid, and liquid only. You can bolt one to a {THING:ItemTankConnectorLiquid} using a {THING:ItemWrench}, then connect it to a pipe network to refill it. You can refill a {THING:ItemGasCanisterWater} by attaching it to the tank's striped section. Or you could use a {THING:ItemWrench} to attach it to a rocket and take it somewhere distant and dry, then feel good about yourself.</Description>
+      <Value>可攜式液體壓力槽</Value>
+      <Description>此可攜式壓力槽儲存液體，並且僅限液體。您可以使用 {THING:ItemWrench} 將一個螺栓固定到 {THING:ItemTankConnectorLiquid}，然後將其連接到管網以重新填充。
+您可以通過將 {THING:ItemGasCanisterWater} 連接到壓力槽的條紋部分來重新填充它。或者，您可以使用 {THING:ItemWrench} 將其連接到火箭上，並將其帶到遙遠而乾燥的地方，然後自我感覺良好。</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGenerator</Key>
-      <Value>Portable Generator</Value>
-      <Description>Every {LINK:Stationeers;Stationeer's} best friend, the portable generator gets you up and running, fast. Fill it with a {THING:ItemGasCanisterFuel} to power up and charge a {THING:ItemBatteryCell}, or attach it to a {THING:StructurePowerConnector} to link it into your electrical network. It's pressure driven, so functions more efficiently at lower temperatures, and REALLY efficiently if supercooled. Perfecting your fuel mix also makes a big difference.</Description>
+      <Value>可攜式發電機</Value>
+      <Description>每個 {LINK:Stationeers;Stationeer} 最好的朋友，可攜式發電機可以讓您快速啟動並運行。用 {THING:ItemGasCanisterFuel} 填充它，為 {THING:ItemBatteryCell} 供電並充電，或將其連接到 {THING:StructurePowerConnector} 以將其連接到您的電網。它是壓力驅動的，因此在較低溫度下運行更有效，越冷，工作效率越更高。完善您的燃料混合物也很重要。</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicLight</Key>
-      <Value>Portable Light</Value>
-      <Description>Philippe Starck might not applaud, but this battery-powered light source undarkens the corners when illumination's lacking. Powered by any battery, it's a 'no-frills' {LINK:Xigo;Xigo} design that can be cheaply fabricated with the minimum of fuss. Unless you like fuss. In which case, fuss all you like.</Description>
+      <Value>可攜式燈具</Value>
+      <Description>Philippe Starck 可能不會鼓掌，但這種電池供電的光源在缺乏照明時會照亮角落。它由任何電池供電，是一種“樸實無華”的 {LINK:Xigo;Xigo} 設計，只需最少的麻煩即可廉價製造。除非你喜歡瞎忙。如果是這樣，那就盡情瞎忙吧。</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicScrubber</Key>
-      <Value>Portable Air Scrubber</Value>
-      <Description>A portable scrubber does just what it sounds like: removes specific substances from the air. For instance, attaching a {THING:ItemGasFilterCarbonDioxide} will pull {GAS:CarbonDioxide} from the surrounding atmosphere. Note that the scrubber has room for one battery and two filters, which will double its operating speed. Neat. When it reaches an internal pressure of 8106kPA, an error signal will flash on the switch, indicating it needs to be emptied. Either vent it directly, or attach it to a pipe network via a {THING:ItemTankConnector} and a {THING:ItemWrench}.</Description>
+      <Value>可攜式空氣過濾機</Value>
+      <Description>可攜式空氣過濾機的作用就像它的名字一樣：從空氣中去除特定的物質。例如，連接 {THING:ItemGasFilterCarbonDioxide} 將從周圍大氣中吸收 {GAS:CarbonDioxide}。請注意，空濾機有空間容納一個電池和兩個過濾器，這將使其運行速度加倍。真聰明。8106 千帕 (kPa) 時，開關上會閃爍錯誤信號，表示需要清空。可以直接排放，或使用 {THING:ItemTankConnector} 和 {THING:ItemWrench} 將其連接到管線網絡。</Description>
     </RecordThing>
     <RecordThing>
       <Key>EffectSplatEgg</Key>
-      <Value>Effect Splat Egg</Value>
+      <Value>使蛋撞上</Value>
     </RecordThing>
     <RecordThing>
       <Key>EntityAlien</Key>
@@ -1008,7 +1014,7 @@ You can refill a {THING:ItemGasCanisterWater} by attaching it to the tank's stri
     <RecordThing>
       <Key>GasTankAir</Key>
       <Value>Gas Tank (Air)</Value>
-      <Description>Portable gas tanks store gas, and gas only. To refill one, bolt it to a {THING:ItemTankConnector} using a {THING:ItemWrench}, then connect it to a pipe network. Try to avoid pushing it above 100 atmospheres, or you'll taste the delicate flavor of regret. Use tanks to fill a {THING:ItemGasCanisterEmpty} by attaching it to the tank's striped section. Or you could vent it into a sealed room to create an atmosphere, attach it to a rover and take it for a drive, or just use it for loud, expensive target practice.</Description>
+      <Description>Portable gas tanks store gas, and gas only. 如果您需要重新填充壓力槽，請使用 {THING:ItemWrench} 將其固定在 {THING:ItemTankConnector} 上，然後將其連接到管線網絡。Try to avoid pushing it above 100 atmospheres, or you'll taste the delicate flavor of regret. Use tanks to fill a {THING:ItemGasCanisterEmpty} by attaching it to the tank's striped section. Or you could vent it into a sealed room to create an atmosphere, attach it to a rover and take it for a drive, or just use it for loud, expensive target practice.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemActiveVent</Key>
@@ -1867,7 +1873,7 @@ For more information on using the air conditioner, consult the {LINK:Temperature
     </RecordThing>
     <RecordThing>
       <Key>StructureAirlock</Key>
-      <Value>Airlock</Value>
+      <Value>電路板 (氣閘門控制)</Value>
       <Description>The standard airlock is a powered portal that forms the main component of an airlock chamber. As long as the airlock is not locked, it can be manually opened using a crowbar.</Description>
     </RecordThing>
     <RecordThing>
