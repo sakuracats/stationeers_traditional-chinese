@@ -1032,14 +1032,16 @@
       <Value>隨身電池 (小型)</Value>
       <Description>小型電池採用 21 世紀初首創的設計，是 {LINK:Stationeers;Stationeer} 便攜式電源的基本單位。雖然它缺乏 {THING:ItemBatteryCellLarge} 或 {THING:ItemBatteryCellNuclear} 的容量，但它具有使用基本資源製成的不起眼的優勢。
 
-{HEADER:POWER OUTPUT} 小型電池可儲存高達 36000 瓦的電力。</Description>
+{HEADER:電力輸出} 
+小型電池可儲存高達 36000 瓦的電力。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCellLarge</Key>
       <Value>隨身電池 (大型)</Value>
       <Description>{LINK:Xigo;Xigo} 於 2155 年在未註明原型的基礎上首次量產，經典的矽陽極固態設計擴展了其最佳溫度範圍。
 
-{HEADER:POWER OUTPUT} 大型電池可釋放 288 千瓦 (kW) 的電力。 
+{HEADER:電力輸出}
+大型電池可釋放 288 千瓦 (kW) 的電力。 
 </Description>
     </RecordThing>
     <RecordThing>
@@ -1047,7 +1049,8 @@
       <Value>隨身電池 (核能)</Value>
       <Description>自成都事件以來，Norsec 核動力電池在地球上是非法的，找到了一個新的、極端不注重安全的星際市場。
 
-{HEADER:POWER OUTPUT} 將能量重量平衡推向極限，「核能」擁有 2.3 兆瓦 (2304000W) 電量，反映出它需要特殊的 {LINK:IngotPage;superalloys} 。</Description>
+{HEADER:電力輸出}
+將能量重量平衡推向極限，「核能」擁有 2.3 兆瓦 (2304000W) 電量，反映出它需要特殊的 {LINK:IngotPage;superalloys} 。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCharger</Key>
@@ -1063,27 +1066,27 @@
       <Key>ItemCableCoil</Key>
       <Value>電纜</Value>
       <Description>身體隱喻已經老套且人類中心主義，但是第一位 {LINK:ODA;ODA} 管理員 Frida Stuppen 說過：「讓電纜如同神經和血管一般，透過我們在星際中鍛造的系統傳輸能量和數據。」後來的評論家暗示她只是在對一個具有爭議的經濟問題進行浪漫化的處理。無論如何，標準的電纜是任何 {LINK:Stationeers;Stationeer} 網絡的起點。
-普通線圈的最大功率為5kW。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
+普通線圈的最大功率為 5 千瓦 (kW)。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightBlue</Key>
       <Value>化學燈 (藍色)</Value>
-      <Description>一種安全且略帶狂歡色彩的藍色光源。折斷即可激活。</Description>
+      <Description>一種安全且略帶狂歡色彩的藍色光源。折斷即可啟用。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightGreen</Key>
       <Value>化學燈 (綠色)</Value>
-      <Description>用這種發光的綠色燈光照亮最沉悶、沒有空气的岩石。折斷即可激活。</Description>
+      <Description>用這種發光的綠色燈光照亮最沉悶、沒有空气的岩石。折斷即可啟用。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightRed</Key>
       <Value>化學燈 (紅色)</Value>
-      <Description>一根紅色化學燈。折斷即可激活。然後就伸手去觸碰雷射吧。</Description>
+      <Description>一根紅色化學燈。折斷即可啟用。然後就伸手去觸碰雷射吧。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightWhite</Key>
       <Value>化學燈 (白色)</Value>
-      <Description>折斷化學燈以激活微弱的光芒，</Description>
+      <Description>折斷化學燈以啟用微弱的光芒，</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightYellow</Key>
@@ -1093,7 +1096,7 @@
     <RecordThing>
       <Key>ItemCoalOre</Key>
       <Value>礦石 (煤)</Value>
-      <Description>如果沒有簡陋的可燃煤炭，人類就不可能進入太空。在 {THING:SolidFuelGenerator} 中燃燒它，在 {THING:StructureFurnace} 中熔煉它以創建 {LINK:AlloysPage;alloys}，或者在 {THING:ApplianceReagentProcessor} 中使用它來製造 {THING:ItemSprayCanBlack}。</Description>
+      <Description>如果沒有簡陋的可燃煤炭，人類就不可能進入太空。在 {THING:StructureSolidFuelGenerator} 中燃燒它，在 {THING:StructureFurnace} 中熔煉它以創建 {LINK:AlloysPage;合金}，或者在 {THING:ApplianceReagentProcessor} 中使用它來製造 {THING:ItemSprayCanBlack}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCompositeFloorGrating</Key>
@@ -1943,37 +1946,37 @@ Short of a pocket-sized singularity blinking into the local space-time frame, th
       <Key>StructureCableCorner</Key>
       <Value>Cable (Corner)</Value>
       <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} life - so essential, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
-普通線圈的最大功率為5kW。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
+普通線圈的最大功率為 5 千瓦 (kW)。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner3</Key>
       <Value>Cable (3-Way Corner)</Value>
       <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} life - so essential, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
-普通線圈的最大功率為5kW。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
+普通線圈的最大功率為 5 千瓦 (kW)。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction</Key>
       <Value>Cable (Junction)</Value>
       <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} life - so much so, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
-普通線圈的最大功率為5kW。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
+普通線圈的最大功率為 5 千瓦 (kW)。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4</Key>
       <Value>Cable (4-Way Junction)</Value>
       <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} life - so much so, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
-普通線圈的最大功率為5kW。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
+普通線圈的最大功率為 5 千瓦 (kW)。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6</Key>
       <Value>Cable (6-Way Junction)</Value>
       <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} duty - so much so, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
-普通線圈的最大功率為5kW。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
+普通線圈的最大功率為 5 千瓦 (kW)。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraight</Key>
       <Value>Cable (Straight)</Value>
       <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} life - so much so, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'}.
-普通線圈的最大功率為5kW。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
+普通線圈的最大功率為 5 千瓦 (kW)。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCamera</Key>
