@@ -1296,7 +1296,7 @@
     <RecordThing>
       <Key>ItemGoldOre</Key>
       <Value>礦石 (金)</Value>
-      <Description>令人驚訝的是，{REAGENT:Gold} 在整個太陽系都很常見，據認為它起源於超新星的核心，在太陽形成的早期階段像塵埃一樣聚集，然後融入緩慢吸積的行星體中。現在，金是 {LINK:Stationeers;Stationeer} 建築中的一種珍貴元素，金的價值不在於其美麗，而在於其可靠性：惰性、耐用、導電性和高度穩定，金的優點是它不做事。</Description>
+      <Description>令人驚訝的是，{REAGENT:金} 在整個太陽系都很常見，據認為它起源於超新星的核心，在太陽形成的早期階段像塵埃一樣聚集，然後融入緩慢吸積的行星體中。現在，金是 {LINK:Stationeers;Stationeer} 建築中的一種珍貴元素，金的價值不在於其美麗，而在於其可靠性：惰性、耐用、導電性和高度穩定，金的優點是它不做事。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGrenade</Key>
