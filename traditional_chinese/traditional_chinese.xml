@@ -1235,7 +1235,7 @@
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxide</Key>
       <Value>初階濾心 (二氧化碳)</Value>
-      <Description>鑑於人類對呼出 {GAS:CarbonDiodium} 的痴迷，所有 {LINK:Stationeers;Stationeers} 都會獲得兩個基本的 {LINK:Sinotai;Sinotai} {GAS:CarbonDiodium} {SLOT:GasFilter} 作為其標準部署套件(SDK) 的一部分。這個濾心允許 {GAS:CarbonDioxide} 進入太空裝的 {THING:ItemGasCanisterEmpty}，同時也是 {THING:DynamicScrubber} 和{THING:StructureFiltration} 的關鍵元件。{THING:ItemGasFilterCarbonDiicideM} 和 {THING:ItemGasFilterCarbonDiicideL} 也可工作。</Description>
+      <Description>鑑於人類對呼出 {GAS:CarbonDioxide} 的痴迷，所有 {LINK:Stationeers;Stationeers} 都會獲得兩個基本的 {LINK:Sinotai;Sinotai} {GAS:CarbonDioxide} {SLOT:GasFilter} 作為其標準部署套件(SDK) 的一部分。這個濾心允許 {GAS:CarbonDioxide} 進入太空裝的 {THING:ItemGasCanisterEmpty}，同時也是 {THING:DynamicScrubber} 和{THING:StructureFiltration} 的關鍵元件。{THING:ItemGasFilterCarbonDiicideM} 和 {THING:ItemGasFilterCarbonDiicideL} 也可工作。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterPollutants</Key>
