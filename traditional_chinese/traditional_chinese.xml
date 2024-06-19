@@ -978,134 +978,132 @@
     </RecordThing>
     <RecordThing>
       <Key>EntityAlien</Key>
-      <Value>Entity Alien</Value>
-      <Description>The answer to the age-old question, 'Is there life on other planets?', is 'I guess so.'</Description>
+      <Value>外星人實體</Value>
+      <Description>“其他行星上有生命嗎？”這個古老的問題的答案是“我想是的。”</Description>
     </RecordThing>
     <RecordThing>
       <Key>EntityChick</Key>
-      <Value>Entity Chick</Value>
-      <Description>Once a chick is hatched, it gets hungry. It will eat soybeans, corn, and wheat, and lay eggs. Some will be fertilized, producing further chickens. Some will not.</Description>
+      <Value>小雞實體</Value>
+      <Description>小雞一出殼，就會感到飢餓。牠會吃大豆、玉米和小麥，並生蛋。有些蛋會受精，產生更多的雞。而有些不會。</Description>
     </RecordThing>
     <RecordThing>
       <Key>EntityChickenBrown</Key>
-      <Value>Entity Chicken Brown</Value>
-      <Description>Like so many of its brethren, this is a chicken. A brown one. It will eat soybeans, corn, and wheat, and lay eggs. Some will be fertilized, producing further chickens. Some will not.</Description>
+      <Value>褐色雞實體</Value>
+      <Description>像它的許多兄弟一樣，這是一隻雞。褐色的。牠會吃大豆、玉米和小麥，並生蛋。有些蛋會受精，產生更多的雞。而有些不會。</Description>
     </RecordThing>
     <RecordThing>
       <Key>EntityChickenWhite</Key>
-      <Value>Entity Chicken White</Value>
-      <Description>It's a chicken, as white as moondust. It will eat soybeans, corn, and wheat, and lay eggs. Some will be fertilized, producing further chickens. Some will not.</Description>
+      <Value>白色雞實體</Value>
+      <Description>這是一隻雞，潔白如月塵。牠會吃大豆、玉米和小麥，並生蛋。有些蛋會受精，產生更多的雞。而有些不會。</Description>
     </RecordThing>
     <RecordThing>
       <Key>EntityGraylien</Key>
-      <Value>Entity Graylien</Value>
-      <Description>While humanity has historically referred to these creatures as 'Greys', they prefer the more inclusive 'Trans-beige' label.</Description>
+      <Value>Graylien 實體</Value>
+      <Description>雖然人類歷史上將這些生物稱為“Greys”，但他們更喜歡更具包容性的“Trans-beige”標籤。</Description>
     </RecordThing>
     <RecordThing>
       <Key>EntityRoosterBlack</Key>
-      <Value>Entity Rooster Black</Value>
-      <Description>This is a rooster. It is black. There is dignity in this.</Description>
+      <Value>黑色公雞實體</Value>
+      <Description>這是一隻公雞。牠是黑色的。這就是尊嚴。</Description>
     </RecordThing>
     <RecordThing>
       <Key>EntityRoosterBrown</Key>
-      <Value>Entity Rooster Brown</Value>
-      <Description>The common brown rooster. Don't let it hear you say that.</Description>
+      <Value>褐色公雞實體</Value>
+      <Description>常見的褐色公雞。別讓牠聽到你這麼說。</Description>
     </RecordThing>
     <RecordThing>
       <Key>GasTankAir</Key>
-      <Value>Gas Tank (Air)</Value>
-      <Description>Portable gas tanks store gas, and gas only. 如果您需要重新填充壓力槽，請使用 {THING:ItemWrench} 將其固定在 {THING:ItemTankConnector} 上，然後將其連接到管線網絡。Try to avoid pushing it above 100 atmospheres, or you'll taste the delicate flavor of regret. Use tanks to fill a {THING:ItemGasCanisterEmpty} by attaching it to the tank's striped section. Or you could vent it into a sealed room to create an atmosphere, attach it to a rover and take it for a drive, or just use it for loud, expensive target practice.</Description>
+      <Value>氣體壓力槽</Value>
+      <Description>便攜式儲氣罐儲存氣體，並且僅儲存氣體。如果您需要重新填充壓力槽，請使用 {THING:ItemWrench} 將其固定在 {THING:ItemTankConnector} 上，然後將其連接到管線網絡。盡量避免將其超過 100 大氣壓，否則你會嚐到後悔的微妙滋味。
+使用儲罐將 {THING:ItemGasCanisterEmpty} 連接到儲罐的條紋部分來填充它。或者你可以將它排入一個密封的房間以創造大氣，將它連接到漫遊車並帶著它出去兜風，或者只是將其用於吵鬧昂貴的靶場練習。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemActiveVent</Key>
-      <Value>Kit (Active Vent)</Value>
-      <Description>When constructed, this kit places an {THING:StructureActiveVent} on any support structure.</Description>
+      <Value>套件 通風口 (主動式)</Value>
+      <Description>建造時，該套件需將 {THING:StructureActiveVent} 放置在任何支撐結構上。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemAreaPowerControl</Key>
-      <Value>Kit (Power Controller)</Value>
-      <Description>This kit places a {THING:StructureAreaPowerControl} (APC) on any support structure. The APC kit has two options, selecting which direction you would like the APC power to flow.</Description>
+      <Value>套件 區域電源控制器</Value>
+      <Description>該套件需將 {THING:StructureAreaPowerControl} (APC) 放置在任何支撐結構上。{THING:StructureAreaPowerControl} 有兩個選項，選擇您希望 APC 電源流動的方向。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCell</Key>
-      <Value>Battery Cell (Small)</Value>
-      <Description>Harnessing a design pioneered in the early 21st century, the small battery cell is the {LINK:Stationeers;Stationeer's} basic unit of portable electrical power. While it lacks the charge of a {THING:ItemBatteryCellLarge} or {THING:ItemBatteryCellNuclear}, it has the humble advantage of being fabricated from basic resources.
+      <Value>隨身電池 (小型)</Value>
+      <Description>小型電池採用 21 世紀初首創的設計，是 {LINK:Stationeers;Stationeer} 便攜式電源的基本單位。雖然它缺乏 {THING:ItemBatteryCellLarge} 或 {THING:ItemBatteryCellNuclear} 的容量，但它具有使用基本資源製成的不起眼的優勢。
 
-{HEADER:POWER OUTPUT}
-The small cell stores up to 36000 watts of power.</Description>
+{HEADER:POWER OUTPUT} 小型電池可儲存高達 36000 瓦的電力。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCellLarge</Key>
-      <Value>Battery Cell (Large)</Value>
-      <Description>First mass-produced by {LINK:Xigo;Xigo} in 2155 on the basis of a unattributed prototype, the classic silicon anode solid-state design extends its optimum temperature range.
+      <Value>隨身電池 (大型)</Value>
+      <Description>{LINK:Xigo;Xigo} 於 2155 年在未註明原型的基礎上首次量產，經典的矽陽極固態設計擴展了其最佳溫度範圍。
 
-{HEADER:POWER OUTPUT}
-The large power cell can discharge 288kW of power. 
+{HEADER:POWER OUTPUT} 大型電池可釋放 288 千瓦 (kW) 的電力。 
 </Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCellNuclear</Key>
-      <Value>Battery Cell (Nuclear)</Value>
-      <Description>Illegal on Earth since the Chengdu Event, Norsec nuclear power cells found a new and drastically less safety-conscious market offworld.
+      <Value>隨身電池 (核能)</Value>
+      <Description>自成都事件以來，Norsec 核動力電池在地球上是非法的，找到了一個新的、極端不注重安全的星際市場。
 
-{HEADER:POWER OUTPUT}
-Pushing the power-weight balance to its limits, the 'nuke' has a 2.3 megawatt charge (2304000W), reflecting its reliance on exotic {LINK:IngotPage;superalloys}.</Description>
+{HEADER:POWER OUTPUT} 將能量重量平衡推向極限，「核能」擁有 2.3 兆瓦 (2304000W) 電量，反映出它需要特殊的 {LINK:IngotPage;superalloys} 。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCharger</Key>
-      <Value>Kit (Battery Charger)</Value>
-      <Description>This kit produces a 5-slot {THING:ItemBatteryCharger}.</Description>
+      <Value>套件 電池充電座</Value>
+      <Description>此套件可提供 5 插槽的 {THING:ItemBatteryCharger}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBook</Key>
-      <Value>Book</Value>
-      <Description>Unlike 8-tracks, laser-disks and email, books never totally vanished. Technology may have evolved, but something about the texture and sexiness of the physical book has seen them endure in a unique, if slightly irrational informational niche.</Description>
+      <Value>書</Value>
+      <Description>與 8 軌磁帶、雷射光碟和電子郵件不同，書籍從未完全消失。科技可能已經發展，但實體書的質感和性感已經讓它們在一個獨特的、儘管有點不合理的資訊領域中持久存在。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCableCoil</Key>
-      <Value>Cable Coil</Value>
-      <Description>Bodily metaphors are tired and anthropocentric, but it was Frida Stuppen, the first {LINK:ODA;ODA} Administrator, who said, 'Let the cabling be as the nerve and the vessel, transmitting power and data alike through systems we forge among the stars.' Later commentators suggested that she was simply putting a romantic gloss on a piece of dubious economy. Whatever the case, standard cabling is where any {LINK:Stationeers;Stationeer's} network begins. 
-Normal coil has a maximum wattage of 5kW. For higher-current applications, use {THING:ItemCableCoilHeavy}.</Description>
+      <Value>電纜</Value>
+      <Description>身體隱喻已經老套且人類中心主義，但是第一位 {LINK:ODA;ODA} 管理員 Frida Stuppen 說過：「讓電纜如同神經和血管一般，透過我們在星際中鍛造的系統傳輸能量和數據。」後來的評論家暗示她只是在對一個具有爭議的經濟問題進行浪漫化的處理。無論如何，標準的電纜是任何 {LINK:Stationeers;Stationeer} 網絡的起點。
+普通線圈的最大功率為5kW。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightBlue</Key>
-      <Value>Chem Light (Blue)</Value>
-      <Description>A safe and slightly rave-some source of blue light. Snap to activate.</Description>
+      <Value>化學燈 (藍色)</Value>
+      <Description>一種安全且略帶狂歡色彩的藍色光源。折斷即可激活。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightGreen</Key>
-      <Value>Chem Light (Green)</Value>
-      <Description>Enliven the dreariest, airless rock with this glowy green light. Snap to activate.</Description>
+      <Value>化學燈 (綠色)</Value>
+      <Description>用這種發光的綠色燈光照亮最沉悶、沒有空气的岩石。折斷即可激活。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightRed</Key>
-      <Value>Chem Light (Red)</Value>
-      <Description>A red glowstick. Snap to activate. Then reach for the lasers.</Description>
+      <Value>化學燈 (紅色)</Value>
+      <Description>一根紅色化學燈。折斷即可激活。然後就伸手去觸碰雷射吧。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightWhite</Key>
-      <Value>Chem Light (White)</Value>
-      <Description>Snap the glowstick to activate a pale radiance that keeps the darkness at bay.</Description>
+      <Value>化學燈 (白色)</Value>
+      <Description>折斷化學燈以激活微弱的光芒，</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightYellow</Key>
-      <Value>Chem Light (Yellow)</Value>
-      <Description>Dispel the darkness with this yellow glowstick.</Description>
+      <Value>化學燈 (黃色)</Value>
+      <Description>用這根黃色化學燈驅散黑暗。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCoalOre</Key>
-      <Value>Ore (Coal)</Value>
-      <Description>Humanity wouldn't have got to space without humble, combustible coal. Burn it in a {THING:SolidFuelGenerator}, smelt it in the {THING:StructureFurnace} to create {LINK:AlloysPage;alloys}, or use it in the {THING:ApplianceReagentProcessor} to make  {THING:ItemSprayCanBlack}.</Description>
+      <Value>礦石 (煤)</Value>
+      <Description>如果沒有簡陋的可燃煤炭，人類就不可能進入太空。在 {THING:SolidFuelGenerator} 中燃燒它，在 {THING:StructureFurnace} 中熔煉它以創建 {LINK:AlloysPage;alloys}，或者在 {THING:ApplianceReagentProcessor} 中使用它來製造 {THING:ItemSprayCanBlack}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCompositeFloorGrating</Key>
-      <Value>Composite Floor Grating</Value>
+      <Value>柵板</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemCorn</Key>
       <Value>玉米</Value>
-      <Description>A long growth time staple crop. Its low requirement for darkness allows for accelerated growing if provided with extra light.</Description>
+      <Description>生長期較長的糧食作物。它對黑暗的需求較低，如果提供額外的光照，可以加快生長。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCrowbar</Key>
@@ -1945,37 +1943,37 @@ Short of a pocket-sized singularity blinking into the local space-time frame, th
       <Key>StructureCableCorner</Key>
       <Value>Cable (Corner)</Value>
       <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} life - so essential, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
-Normal coil has a maximum wattage of 5kW. For higher-current applications, use {THING:ItemCableCoilHeavy}.</Description>
+普通線圈的最大功率為5kW。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner3</Key>
       <Value>Cable (3-Way Corner)</Value>
       <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} life - so essential, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
-Normal coil has a maximum wattage of 5kW. For higher-current applications, use {THING:ItemCableCoilHeavy}.</Description>
+普通線圈的最大功率為5kW。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction</Key>
       <Value>Cable (Junction)</Value>
       <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} life - so much so, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
-Normal coil has a maximum wattage of 5kW. For higher-current applications, use {THING:ItemCableCoilHeavy}.</Description>
+普通線圈的最大功率為5kW。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4</Key>
       <Value>Cable (4-Way Junction)</Value>
       <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} life - so much so, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
-Normal coil has a maximum wattage of 5kW. For higher-current applications, use {THING:ItemCableCoilHeavy}.</Description>
+普通線圈的最大功率為5kW。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6</Key>
       <Value>Cable (6-Way Junction)</Value>
       <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} duty - so much so, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'} during the 3rd Decannual Stationeer Solar Conference.
-Normal coil has a maximum wattage of 5kW. For higher-current applications, use {THING:ItemCableCoilHeavy}.</Description>
+普通線圈的最大功率為5kW。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraight</Key>
       <Value>Cable (Straight)</Value>
       <Description>Carrying power and data alike, cable coil has come to symbolize the innovation, independence and flexibility of {LINK:Stationeers;Stationeer} life - so much so, the {LINK:ODA;ODA} designated it an official {LINK:ToolPage;'tool'}.
-Normal coil has a maximum wattage of 5kW. For higher-current applications, use {THING:ItemCableCoilHeavy}.</Description>
+普通線圈的最大功率為5kW。對於需求電流較高的應用，請使用 {THING:ItemCableCoilHeavy}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCamera</Key>
@@ -2041,7 +2039,7 @@ Chutes are fundamental components of chute networks, which allow the transport o
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating</Key>
-      <Value>Composite Floor Grating</Value>
+      <Value>柵板</Value>
       <Description>While aesthetics rank low on the ladder of {LINK:Stationeers;Stationeer} concerns, composite gratings allow the concealment of unsightly cables on floors, walls and ceilings.</Description>
     </RecordThing>
     <RecordThing>
@@ -3979,7 +3977,7 @@ Output = 1 exporting items inside and eventually the main item.</Description>
     <RecordThing>
       <Key>ItemPumpkin</Key>
       <Value>南瓜</Value>
-      <Description>Pumpkins are a perennial plant, with both a long growth time, and a long time between harvests.  Its low requirement for darkness allows for accelerated growing if provided with extra light.</Description>
+      <Description>Pumpkins are a perennial plant, with both a long growth time, and a long time between harvests.  它對黑暗的需求較低，如果提供額外的光照，可以加快生長。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemRice</Key>
