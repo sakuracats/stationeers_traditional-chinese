@@ -970,7 +970,7 @@
     <RecordThing>
       <Key>DynamicScrubber</Key>
       <Value>可攜式空氣過濾機</Value>
-      <Description>可攜式空氣過濾機的作用就像它的名字一樣：從空氣中去除特定的物質。例如，連接 {THING:ItemGasFilterCarbonDioxide} 將從周圍大氣中吸收 {GAS:CarbonDioxide}。請注意，空濾機有空間容納一個電池和兩個過濾器，這將使其運行速度加倍。真聰明。8106 千帕 (kPa) 時，開關上會閃爍錯誤信號，表示需要清空。可以直接排放，或使用 {THING:ItemTankConnector} 和 {THING:ItemWrench} 將其連接到管線網絡。</Description>
+      <Description>可攜式空氣過濾機的作用就像它的名字一樣：從空氣中去除特定的物質。例如，連接 {THING:ItemGasFilterCarbonDioxide} 將從周圍大氣中吸收 {GAS:CarbonDioxide}。請注意，空濾機有空間容納一個電池和兩個濾心，這將使其運行速度加倍。真聰明。8106 千帕 (kPa) 時，開關上會閃爍錯誤信號，表示需要清空。可以直接排放，或使用 {THING:ItemTankConnector} 和 {THING:ItemWrench} 將其連接到管線網絡。</Description>
     </RecordThing>
     <RecordThing>
       <Key>EffectSplatEgg</Key>
@@ -1096,7 +1096,7 @@
     <RecordThing>
       <Key>ItemCoalOre</Key>
       <Value>礦石 (煤)</Value>
-      <Description>如果沒有簡陋的可燃煤炭，人類就不可能進入太空。在 {THING:StructureSolidFuelGenerator} 中燃燒它，在 {THING:StructureFurnace} 中熔煉它以創建 {LINK:AlloysPage;合金}，或者在 {THING:ApplianceReagentProcessor} 中使用它來製造 {THING:ItemSprayCanBlack}。</Description>
+      <Description>如果沒有簡陋的可燃煤炭，人類就不可能進入太空。在 {THING:StructureSolidFuelGenerator} 中燃燒它，在 {THING:StructureFurnace} 中冶煉它以創建 {LINK:AlloysPage;合金}，或者在 {THING:ApplianceReagentProcessor} 中使用它來製造 {THING:ItemSprayCanBlack}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCompositeFloorGrating</Key>
@@ -1110,78 +1110,78 @@
     </RecordThing>
     <RecordThing>
       <Key>ItemCrowbar</Key>
-      <Value>Crowbar</Value>
-      <Description>{LINK:Recurso;Recurso's} entry-level crowbar is useful in a variety of everyday {LINK:Stationeers;Stationeer} settings, from opening {THING:StructureAreaPowerControl}s and unpowered {THING:StructureAirlock}s, to splatting pan-dimensional headcrabs, should the need arise.</Description>
+      <Value>撬棍</Value>
+      <Description>{LINK:Recurso;Recurso} 的入門級撬棍在各種日常 {LINK:Stationeers;Stationeer} 場景中都很有用，從打開 {THING:StructureAreaPowerControl} 和未通電的 {THING:StructureAirlock}，到擊打來自其他維度的頭蟹（如果有需要的話）。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemDataDisk</Key>
-      <Value>Data Disk</Value>
+      <Value>磁碟片</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemDrill</Key>
-      <Value>Hand Drill</Value>
-      <Description>The {LINK:ExMin;ExMin} Off-whirled Hand Drill has been a companion to {LINK:Stationeers;Stationeers} for decades. Essential for assembling and deconstructing various items and structures, regardless of gravity, pressure or temperature.</Description>
+      <Value>手持式電鑽</Value>
+      <Description>數十年來，{LINK:ExMin;ExMin} 偏轉手電筒一直是 {LINK:Stationeers;Stationeers} 的伴侶。無論重力、壓力或溫度如何，它對於組裝和拆卸各種物品和結構都是必不可少的。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemDuctTape</Key>
-      <Value>Duct Tape</Value>
-      <Description>In the distant past, one of Earth's great champions taught a generation of 'Fix-It People' that duct tape was the answer to any problem. {LINK:Stationeers;Stationeers} have demonstrated that this is truth holds strong, so long as the problem is a damaged {THING:ItemEvaSuit}, {THING:ItemJetpackBasic}, {THING:ItemSpaceHelmet}, or even a {THING:StructureSolarPanel}.
-To use on yourself: put duct tape in your active hand, hold RIGHT MOUSE BUTTON to automatically repair damage.</Description>
+      <Value>氣密膠帶</Value>
+      <Description>在遙遠的過去，地球上的一位偉大冠軍教導了一代「修理人員」，認為膠帶是解決任何問題的答案。{LINK:Stationeers;Stationeers} 已經證明，只要問題是損壞的 {THING:ItemEvaSuit}、{THING:ItemJetpackBasic}、{THING:ItemSpaceHelmet}，甚至是 {THING:StructureSolarPanel}，這句話都是站得住腳的。
+若要對自己使用：將膠帶拿在您的手中，按住滑鼠右鍵自動修復損壞。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemDynamite</Key>
-      <Value>Dynamite</Value>
+      <Value>炸藥</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemEgg</Key>
       <Value>蛋</Value>
-      <Description>Layed by {THING:NpcChicken} about once per day and can used in cooking.</Description>
+      <Description>由 {THING:NpcChicken} 每天產下一次，可用於烹飪。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemEggBottom</Key>
-      <Value>Egg Bottom</Value>
+      <Value>蛋底部</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemEggCarton</Key>
-      <Value>Egg Carton</Value>
-      <Description>Within, eggs reside in mysterious, marmoreal silence.</Description>
+      <Value>蛋盒</Value>
+      <Description>在蛋盒內，雞蛋在神秘的大理石般的寂靜中等待著。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemEggTop</Key>
-      <Value>Egg Top</Value>
+      <Value>蛋頂部</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemEvaSuit</Key>
-      <Value>Eva Suit</Value>
-      <Description>The EVA suit is the basic suit {LINK:Stationeers;Stationeers} need to survive in the inhospitable environment of space. For more information on EVA suits, consult the {LINK:EVAPage;EVA suit} guide.</Description>
+      <Value>太空裝</Value>
+      <Description>太空裝是 {LINK:Stationeers;Stationeers} 惡劣的太空環境中生存所需的基本套裝。有關 太空裝的更多信息，請參閱 {LINK:EVAPage;EVA 套裝}指南。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemFertilizedEgg</Key>
-      <Value>蛋</Value>
-      <Description>To hatch it requires an incubation temperature of between 35 and 45 degrees Celsius and will hatch into a {THING:NpcChick}. If the egg is exposed to tepratures below 10 degrees it will no longer be viable.</Description>
+      <Value>受精卵</Value>
+      <Description>要孵化它，孵化溫度需要在 35 到 45 攝氏度之間，會孵化成 {THING:NpcChick}。如果雞蛋暴露在低於 10 度的溫度下，它將會死亡。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemFireExtinguisher</Key>
-      <Value>Fire Extinguisher</Value>
+      <Value>滅火器</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemFlashingLight</Key>
-      <Value>Kit (Flashing Light)</Value>
+      <Value>套件 旋轉警示燈</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemFlour</Key>
       <Value>麵粉</Value>
-      <Description>Pulverized {THING:ItemWheat}, a key ingredient in many foods created by the {THING:ApplianceMicrowave} and the {THING:ItemKitAutomatedOven}.</Description>
+      <Description>磨碎的 {THING:ItemWheat}，由 {THING:ApplianceMicrowave} 和 {THING:ItemKitAutomatedOven} 創造的許多食物中的一種關鍵成分。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCocoaPowder</Key>
-      <Value>Cocoa Powder</Value>
+      <Value>可可粉</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
@@ -1191,301 +1191,304 @@ To use on yourself: put duct tape in your active hand, hold RIGHT MOUSE BUTTON t
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterCarbonDioxide</Key>
-      <Value>Canister (CO2)</Value>
+      <Value>壓力罐 (二氧化碳)</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterPollutants</Key>
-      <Value>Canister (Pollutants)</Value>
+      <Value>壓力罐 (汙染物)</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterEmpty</Key>
-      <Value>Canister</Value>
+      <Value>壓力罐</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterFuel</Key>
-      <Value>Canister (Fuel)</Value>
+      <Value>壓力罐 (燃料)</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterVolatiles</Key>
-      <Value>Canister (Volatiles)</Value>
+      <Value>壓力罐 (揮發物)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterNitrogen</Key>
-      <Value>Canister (Nitrogen)</Value>
+      <Value>壓力罐 (氮氣)</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterOxygen</Key>
-      <Value>Canister (Oxygen)</Value>
+      <Value>壓力罐 (氧氣)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterWater</Key>
-      <Value>Liquid Canister (Water)</Value>
+      <Value>液體壓力罐 (水)</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidCanisterEmpty</Key>
-      <Value>Liquid Canister</Value>
+      <Value>液體壓力罐</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxide</Key>
-      <Value>Filter (Carbon Dioxide)</Value>
-      <Description>Given humanity's obsession with exhaling {GAS:CarbonDioxide}, all {LINK:Stationeers;Stationeers} are issued two basic {LINK:Sinotai;Sinotai} {GAS:CarbonDioxide} {SLOT:GasFilter} as part of their standard deployment kit (SDK). These filters allow passage of {GAS:CarbonDioxide} into the suit's waste {THING:ItemGasCanisterEmpty}, but are also critical components of the {THING:DynamicScrubber} and the {THING:StructureFiltration}. The {THING:ItemGasFilterCarbonDioxideM} and {THING:ItemGasFilterCarbonDioxideL} are also available.</Description>
+      <Value>初階濾心 (二氧化碳)</Value>
+      <Description>鑑於人類對呼出 {GAS:CarbonDiodium} 的痴迷，所有 {LINK:Stationeers;Stationeers} 都會獲得兩個基本的 {LINK:Sinotai;Sinotai} {GAS:CarbonDiodium} {SLOT:GasFilter} 作為其標準部署套件(SDK) 的一部分。這個濾心允許 {GAS:CarbonDioxide} 進入太空裝的 {THING:ItemGasCanisterEmpty}，同時也是 {THING:DynamicScrubber} 和{THING:StructureFiltration} 的關鍵元件。{THING:ItemGasFilterCarbonDiicideM} 和 {THING:ItemGasFilterCarbonDiicideL} 也可工作。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterPollutants</Key>
-      <Value>Filter (Pollutant)</Value>
-      <Description>Filters are used to capture various gases, such as waste emissions from a {THING:StructureFurnace} or {THING:StructureArcFurnace}. Adding {LINK:Sinotai;Sinotai}-designed {GAS:Pollutant} filters to a {THING:ItemDynamicScrubber} allows you to isolate this gas, then add it to a pipe network and employ its excellent coolant properties in a {THING:StructureWallCooler}. Try not to inhale.</Description>
+      <Value>初階濾心 (汙染物)</Value>
+      <Description>濾心用於捕獲各種氣體，例如來自 {THING:StructureFurnace} 或 {THING:StructureArcFurnace} 排放的廢氣。將 {LINK:Sinotai;Sinotai} 設計的 {GAS:Pollutant} 濾心添加到 {THING:ItemDynamicScrubber} 允許您隔離這種氣體，然後將其添加到管線網絡中並在 {THING:StructureWallCooler} 中利用其出色的冷卻性能。不要吸入。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrogen</Key>
-      <Value>Filter (Nitrogen)</Value>
-      <Description>Filters are used to capture various gases, which can be disposed of or used elsewhere. {GAS:Nitrogen} is a byproduct of smelting various ores, notably {THING:ItemNitrice}, which may be combined with {GAS:Oxygen} to make a breathable - and considerably less flammable - atmosphere.</Description>
+      <Value>初階濾心 (氮氣)</Value>
+      <Description>濾心用於捕獲各種氣體，這些氣體可以被處理或在其他地方使用。{GAS:Nitrogen} 是冶煉各種礦石的副產品，特別是 {THING:ItemNitrice}，它可以與 {GAS:Oxygen} 結合以形成透氣且不易燃的氣體。
+</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterOxygen</Key>
-      <Value>Filter (Oxygen)</Value>
-      <Description>{LINK:Sinotai;Sinotai} have cornered the market in filter design. Their trademarked templates are simple to print and highly efficient at capturing various gases, which can be disposed of or used elsewhere. {GAS:Oxygen} is a common byproduct of smelting various ores, but must be filtered of such impurities as {GAS:Nitrogen} using this filter and various devices, such as the {THING:ItemDynamicScrubber}.</Description>
+      <Value>初階濾心 (氧氣)</Value>
+      <Description>{LINK:Sinotai;Sinotai} 已經壟斷了濾心設計市場。他們的商標模板列印起來很簡單，並且能夠有效地捕獲各種氣體，這些氣體可以被處理或在其他地方使用。{GAS:Oxygen} 是冶煉各種礦石的常見副產品，但必須使用此過濾器和各種設備（例如 {THING:ItemDynamicScrubber}）過濾掉 {GAS:Nitrogen} 等雜質。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterVolatiles</Key>
-      <Value>Filter (Volatiles)</Value>
-      <Description>Filters are used to capture various gases, which can be disposed of or used elsewhere. {GAS:Volatiles} are created by exposing {THING:ItemVolatiles} to heat. The product can then be collected and combined with {GAS:Oxygen} to create fuel, or used within a {THING:StructureFurnace} to smelt ores and create {LINK:IngotPage;alloys}.</Description>
+      <Value>初階濾心 (揮發物)</Value>
+      <Description>濾心用於捕獲各種氣體，這些氣體可以被處理或在其他地方使用。{GAS:Volatiles} 是透過將 {THING:ItemVolatiles} 加熱而產生的。然後可以收集該產品並與 {GAS:Oxygen} 結合來製造燃料，或在 {THING:StructureFurnace} 中使用來冶煉礦石並製造 {LINK:IngotPage;合金}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWater</Key>
-      <Value>Filter (Water)</Value>
-      <Description>{LINK:Sinotai;Sinotai} filters are used to capture various gases, which can be disposed of, or used elsewhere. {GAS:Water} can be collected by filtering smelted {THING:ItemIce}</Description>
+      <Value>初階濾心 (水)</Value>
+      <Description>{LINK:Sinotai;Sinotai} 濾心用於捕捉各種氣體，這些氣體可以處理或在其他地方使用。{GAS:Water}可以透過過濾冶煉的 {THING:ItemIce} 來收集</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasTankStorage</Key>
-      <Value>Kit (Canister Storage)</Value>
-      <Description>This kit produces a {THING:ItemGasTankStorage} for refilling a {THING:ItemGasCanisterEmpty}.</Description>
+      <Value>套件 氣體裝罐器</Value>
+      <Description>此套件可產生一個 {THING:ItemGasTankStorage}，用於重新填充 {THING:ItemGasCanisterEmpty}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidTankStorage</Key>
-      <Value>Kit (Liquid Canister Storage)</Value>
-      <Description>This kit produces a {THING:ItemLiquidTankStorage} for refilling a {THING:ItemLiquidCanisterEmpty}.</Description>
+      <Value>套件 液體裝罐器</Value>
+      <Description>此套件可產生一個 {THING:ItemLiquidTankStorage}，用於重新填充 {THING:ItemLiquidCanisterEmpty}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGlassSheets</Key>
-      <Value>Glass Sheets</Value>
-      <Description>A fundamental construction component, glass sheets are created from {REAGENT:Silicon}. Fabricated on the {THING:StructureAutolathe}, they are used to make {THING:StructureSolarPanel;Solar Panels}, {THING:StructureAirlock;Airlocks} and many other structures.</Description>
+      <Value>玻璃片</Value>
+      <Description>玻璃板是一種基本的建築組件，由 {REAGENT:Silicon} 製成。它們在 {THING:StructureAutolathe} 上製造，用於製造 {THING:StructureSolarPanel}、{THING:StructureAirlock} 和許多其他結構。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCopperIngot</Key>
-      <Value>Ingot (Copper)</Value>
-      <Description>Copper ingots are created by smelting {THING:ItemCopperOre} in the {THING:StructureFurnace} and {THING:StructureArcFurnace}, and used to create a variety of items.</Description>
+      <Value>鑄錠 (銅)</Value>
+      <Description>將 {THING:ItemCopperOre} 在 {THING:StructureFurnace} 和 {THING:StructureArcFurnace} 中冶煉即可產生銅錠，可用於製造各種物品。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCopperOre</Key>
-      <Value>Ore (Copper)</Value>
-      <Description>Copper is a chemical element with the symbol &quot;Cu&quot;. This common and highly conductive material is found on most astronomical bodies and is used in a variety of manufacturing processes including electronic components, alloys, and wires.</Description>
+      <Value>礦石 (銅)</Value>
+      <Description>銅是一種化學元素，符號為“Cu”。這種常見且高導電性的材料存在於大多數天體中，並用於各種製造工藝，包括電子元件、合金和電線。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGoldIngot</Key>
-      <Value>Ingot (Gold)</Value>
-      <Description>There is an enduring paradox at the heart of the {LINK:Stationeers;Stationeers} project: An initiative conceived as 'cut-price space exploration' uses {REAGENT:Gold} as a fundamental ingredient in fabricating so much of its equipment and materiel. </Description>
+      <Value>鑄錠 (金)</Value>
+      <Description>在 {LINK:Stationeers;Stationeer} 項目中存在一個持久悖論：一個被構想為“廉價太空探索”的計劃使用 {REAGENT:Gold} 作為製造其大部分設備和物資的基本成分。 </Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGoldOre</Key>
-      <Value>Ore (Gold)</Value>
-      <Description>Surprisingly common throughout the Solar System, {REAGENT:Gold} is thought to originate in the heart of supernovas, gathering as dust in the early stages of solar formation, then incorporating into the slowly accreting planetary bodies. Now a prized element in {LINK:Stationeers;Stationeer} construction, {REAGENT:Gold} is valued not for its beauty, but its reliability: inert, durable, conductive and highly stable, gold's strength is that it does nothing.</Description>
+      <Value>礦石 (金)</Value>
+      <Description>令人驚訝的是，{REAGENT:Gold} 在整個太陽系都很常見，據認為它起源於超新星的核心，在太陽形成的早期階段像塵埃一樣聚集，然後融入緩慢吸積的行星體中。現在，金是 {LINK:Stationeers;Stationeer} 建築中的一種珍貴元素，金的價值不在於其美麗，而在於其可靠性：惰性、耐用、導電性和高度穩定，金的優點是它不做事。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGrenade</Key>
-      <Value>Hand Grenade</Value>
-      <Description>Invented by the Romans, who threw Greek Fire at their enemies in ceramic jars, the word 'grenade' is derived from the Old French word for 'pomegranate', as many modern grenades resemble this round, many-seeded fruit. Also like many grenades before it, this one goes boom and breaks stuff.</Description>
+      <Value>手榴彈</Value>
+      <Description>手榴彈由古羅馬人發明，他們用陶罐向敵人投擲希臘火。這個詞來源於古法語的“pomegranate”（石榴），因為許多現代手榴彈都像這種圓形、多籽的水果。和其他手榴彈一樣，它也會爆炸並破壞東西。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemHat</Key>
-      <Value>Hat</Value>
-      <Description>As the name suggests, this is a hat.</Description>
+      <Value>帽子</Value>
+      <Description>顧名思義，這是一頂帽子。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemHealPill</Key>
-      <Value>Heal Pill</Value>
-      <Description>Three centuries of pharmaceutical technology compressed into one small, easy to ingest pill: the Heal Pill, aka the Proton Pill, aka Mr Happy contains active enzymes, therapeutic proteins, modified microbial strains, and mammalian cell line analogues in a single-dose boost of high purity, efficacy, and potency that potentiates a swift parasympathetic immune response.</Description>
+      <Value>治療藥</Value>
+      <Description>三個世紀的製藥技術被壓縮成一個易於服用的小藥丸：Heal Pill，又名Proton Pill，又名Mr Happy，在單劑量增強劑中含有活性酶、治療性蛋白質、改良微生物菌株和哺乳動物細胞系類似物。
+</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemHEMDroidRepairKit</Key>
-      <Value>HEMDroid Repair Kit</Value>
-      <Description>Repairs damaged HEM-Droids to full health.</Description>
+      <Value>HEMDroid 修復套件</Value>
+      <Description>將受損的 HEM-Droid 修復至滿血狀態。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemDisposableBatteryCharger</Key>
-      <Value>Disposable Battery Charger</Value>
-      <Description>Consumable battery the recharges your suit battery. If used on a HEM-Droid it will recharge the HEM-Droids internal battery.</Description>
+      <Value>一次性充電器</Value>
+      <Description>一次性充電器，可為您的太空裝電池充電。如果用於 HEM-Droid，它將為 HEM-Droid 的內部電池充電。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemHydroponicTray</Key>
-      <Value>Kit (Hydroponic Tray)</Value>
-      <Description>This kits creates a {THING:StructureHydroponicsTray} for growing various plants.</Description>
+      <Value>套件 水培盆栽</Value>
+      <Description>該套件可創建一個 {THING:StructureHydroponicsTray} 用於種植各種植物。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemIce</Key>
-      <Value>Ice (Water)</Value>
-      <Description>Water ice can be found on most planets in the Solar System, though not all worlds visited by {LINK:Stationeers;Stationeers} possess this resource. Highly sensitive to temperature, ice will begin to melt as soon as it is mined, unless kept in the {THING:ItemMiningBelt}. When melting, ice produces a mixture of {GAS:Steam} and {GAS:Nitrogen} gas.</Description>
+      <Value>冰塊 (水)</Value>
+      <Description>太陽系中的大多數行星上都可以找到水冰，但並非 {LINK:Stationeers;Stationeers} 所訪問的所有世界都擁有這種資源。
+冰對溫度高度敏感，一旦開採就會開始融化，除非將其保存在 {THING:ItemMiningBelt} 中。融化時，冰會產生 {GAS:Steam} 和 {GAS:Nitrogen} 氣體的混合物。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemIgniter</Key>
-      <Value>Kit (Igniter)</Value>
-      <Description>This kit creates an {THING:ItemIgniter} unit.</Description>
+      <Value>套件 發動機點火裝置</Value>
+      <Description>該套件可創建一個 {THING:ItemIgniter} 單元。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulation</Key>
-      <Value>Insulation</Value>
-      <Description>Mysterious in the extreme, the function of this item is lost to the ages.</Description>
+      <Value>隔熱體</Value>
+      <Description>這個物品的功能極端神秘，已經失傳了。我希望我們能在將來找到它的用途。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemIronIngot</Key>
-      <Value>Ingot (Iron)</Value>
-      <Description>The most basic unit of construction available to {LINK:Stationeers;Stationeer}-kind, iron ingots are created by smelting {THING:ItemIronOre} in the {THING:StructureFurnace} and {THING:StructureArcFurnace}, and used to create a variety of items.</Description>
+      <Value>鑄錠 (鐵)</Value>
+      <Description>鐵錠是 {LINK:Stationeers;Stationeer} 可用於建造的的最基本單位，它是通過在 {THING:StructureFurnace} 和 {THING:StructureArcFurnace} 中冶煉 {THING:ItemIronOre} 而製成的，可用於製造各種物品。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemIronOre</Key>
-      <Value>Ore (Iron)</Value>
-      <Description>Abundant throughout the Solar System, iron is the {LINK:OrePage;ore} most commonly used by {LINK:Stationeers;Stationeers} constructing offworld bases. It can be smelted into both {THING:ItemIronIngot}s and {THING:ItemSteelIngot}s.</Description>
+      <Value>礦石 (鐵)</Value>
+      <Description>鐵在整個太陽系中都很豐富，是 {LINK:Stationeers;Stationeer} 在建造異星基地時最常用的 {LINK:OrePage;礦石}。它可以冶煉成 {THING:ItemIronIngot} 和 {THING:ItemSteelIngot}</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAirlock</Key>
-      <Value>Kit (Airlock)</Value>
+      <Value>套件 氣閘門</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAtmospherics</Key>
-      <Value>Kit (Atmospherics)</Value>
+      <Value>套件 空調機</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBattery</Key>
-      <Value>Kit (Battery)</Value>
+      <Value>套件 蓄電器</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCentrifuge</Key>
-      <Value>Kit (Centrifuge)</Value>
+      <Value>套件 離心機</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitChute</Key>
-      <Value>Kit (Basic Chutes)</Value>
+      <Value>套件 物流管</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitComputer</Key>
-      <Value>Kit (Computer)</Value>
+      <Value>套件 電腦</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitConsole</Key>
-      <Value>Kit (Consoles)</Value>
+      <Value>套件 控制面板</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitConveyor</Key>
-      <Value>Kit (Conveyors)</Value>
+      <Value>套件 輸送帶</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCryoTube</Key>
-      <Value>Kit (Cryo Tube)</Value>
+      <Value>套件 冷凍艙</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitEngine</Key>
-      <Value>Kit (Engines)</Value>
+      <Value>套件 引擎</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFabricator</Key>
-      <Value>Kit (Fabricator)</Value>
+      <Value>套件 大型加工機</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFurnace</Key>
-      <Value>Kit (Furnace)</Value>
+      <Value>套件 熔爐</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFurniture</Key>
-      <Value>Kit (Furniture)</Value>
+      <Value>套件 傢俱</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitGyroscope</Key>
-      <Value>Kit (Gyroscope)</Value>
+      <Value>套件 陀螺儀</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRegulator</Key>
-      <Value>Kit (Pressure Regulator)</Value>
+      <Value>套件 氣體壓力調節器</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSensor</Key>
-      <Value>Kit (Sensors)</Value>
+      <Value>套件 感測器</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSign</Key>
-      <Value>Kit (Sign)</Value>
+      <Value>套件 標誌</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSleeper</Key>
-      <Value>Kit (Sleeper)</Value>
+      <Value>套件 睡眠倉</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanel</Key>
-      <Value>Kit (Solar Panel)</Value>
+      <Value>套件 太陽能板（雙軸)</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStairs</Key>
-      <Value>Kit (Stairs)</Value>
+      <Value>套件 樓梯</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStellarAnchor</Key>
-      <Value>Kit (Stellar Anchor)</Value>
+      <Value>套件 太空錨</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStorage</Key>
-      <Value>Kit (Storage)</Value>
+      <Value>套件 儲藏櫃</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTank</Key>
-      <Value>Kit (Tank)</Value>
+      <Value>套件 氣體壓力槽</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTorpedoTube</Key>
-      <Value>Kit (Torpedo Launcher)</Value>
+      <Value>套件 魚雷發射器</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurret</Key>
-      <Value>Kit (Turret)</Value>
+      <Value>套件 砲台</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWall</Key>
-      <Value>Kit (Wall)</Value>
+      <Value>套件 複合牆</Value>
       <Description/>
     </RecordThing>
     <RecordThing>
       <Key>ItemLabeller</Key>
-      <Value>Labeller</Value>
-      <Description>A labeller lets you set names and values on a variety of devices and structures, including {THING:StructureConsole} and {LINK:LogicPage;Logic}.</Description>
+      <Value>標籤機</Value>
+      <Description>標籤機可讓您在多種設備和結構上設置名稱和值，包括 {THING:StructureConsole} 和 {LINK:LogicPage;Logic}。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLightSword</Key>
@@ -1520,7 +1523,8 @@ To use on yourself: put duct tape in your active hand, hold RIGHT MOUSE BUTTON t
     <RecordThing>
       <Key>ItemPillHeal</Key>
       <Value>Pill (Medical)</Value>
-      <Description>Three centuries of pharmaceutical technology compressed into one small, easy to ingest pill: the Heal Pill, aka the Proton Pill, aka Mr Happy contains active enzymes, therapeutic proteins, modified microbial strains, and mammalian cell line analogues in a single-dose boost of high purity, efficacy, and potency that potentiates a swift parasympathetic immune response.</Description>
+      <Description>三個世紀的製藥技術被壓縮成一個易於服用的小藥丸：Heal Pill，又名Proton Pill，又名Mr Happy，在單劑量增強劑中含有活性酶、治療性蛋白質、改良微生物菌株和哺乳動物細胞系類似物。
+</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPillStun</Key>
@@ -6060,7 +6064,7 @@ The speed of heat gain or loss will depend on the liquid in question. Adding mul
     <RecordThing>
       <Key>ItemMKIICrowbar</Key>
       <Value>Mk II Crowbar</Value>
-      <Description>{LINK:Recurso;Recurso's} entry-level crowbar is useful in a variety of everyday {LINK:Stationeers;Stationeer} settings, from opening {THING:StructureAreaPowerControl}s and unpowered {THING:StructureAirlock}s, to splatting pan-dimensional headcrabs, should the need arise. The MK II is more resistant to temperature and pressure.</Description>
+      <Description>{LINK:Recurso;Recurso} 的入門級撬棍在各種日常 {LINK:Stationeers;Stationeer} 場景中都很有用，從打開 {THING:StructureAreaPowerControl} 和未通電的 {THING:StructureAirlock}，到擊打來自其他維度的頭蟹（如果有需要的話）。The MK II is more resistant to temperature and pressure.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIArcWelder</Key>
@@ -6070,7 +6074,7 @@ The speed of heat gain or loss will depend on the liquid in question. Adding mul
     <RecordThing>
       <Key>ItemMKIIDrill</Key>
       <Value>Mk II Drill</Value>
-      <Description>The {LINK:ExMin;ExMin} Off-whirled Hand Drill has been a companion to {LINK:Stationeers;Stationeers} for decades. Essential for assembling and deconstructing various items and structures, regardless of gravity, pressure or temperature.</Description>
+      <Description>數十年來，{LINK:ExMin;ExMin} 偏轉手電筒一直是 {LINK:Stationeers;Stationeers} 的伴侶。無論重力、壓力或溫度如何，它對於組裝和拆卸各種物品和結構都是必不可少的。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIMiningDrill</Key>
@@ -6090,8 +6094,8 @@ The speed of heat gain or loss will depend on the liquid in question. Adding mul
     <RecordThing>
       <Key>ItemMKIIDuctTape</Key>
       <Value>Mk II Duct Tape</Value>
-      <Description>In the distant past, one of Earth's great champions taught a generation of 'Fix-It People' that duct tape was the answer to any problem. {LINK:Stationeers;Stationeers} have demonstrated that this is truth holds strong, so long as the problem is a damaged {THING:ItemEvaSuit}, {THING:ItemJetpackBasic}, {THING:ItemSpaceHelmet}, or even a {THING:StructureSolarPanel}.
-To use on yourself: put duct tape in your active hand, hold RIGHT MOUSE BUTTON to automatically repair damage.</Description>
+      <Description>在遙遠的過去，地球上的一位偉大冠軍教導了一代「修理人員」，認為膠帶是解決任何問題的答案。{LINK:Stationeers;Stationeers} 已經證明，只要問題是損壞的 {THING:ItemEvaSuit}、{THING:ItemJetpackBasic}、{THING:ItemSpaceHelmet}，甚至是 {THING:StructureSolarPanel}，這句話都是站得住腳的。
+若要對自己使用：將膠帶拿在您的手中，按住滑鼠右鍵自動修復損壞。</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWaterBottleFiller</Key>
@@ -9148,7 +9152,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </Record>
     <Record>
       <Key>DataDisk</Key>
-      <Value>Data Disk</Value>
+      <Value>磁碟片</Value>
     </Record>
     <Record>
       <Key>Appliance1</Key>
